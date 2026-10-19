@@ -1,0 +1,21 @@
+{
+  "title": "traffic-speed-homography: vehicle speed estimation from traffic video with perspective correction",
+  "description": "Code for vehicle speed estimation from recorded traffic footage, using object detection, tracking, polygon-zone mapping and homography-based perspective correction with OpenCV. Accompanies the manuscript 'Enhancing Vehicle Speed Estimation Accuracy Using Computer Vision' (Isogun and Agagu).",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Isogun, Oluwatomisin",
+      "affiliation": "Olusegun Agagu University of Science and Technology",
+      "orcid": "0009-0009-1419-7928"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Agagu, Modupe",
+      "affiliation": "Olusegun Agagu University of Science and Technology",
+      "type": "Supervisor"
+    }
+  ],
+  "license": "mit",
+  "keywords": ["computer vision", "vehicle speed estimation", "perspective distortion", "homography", "OpenCV", "object tracking"]
+}
