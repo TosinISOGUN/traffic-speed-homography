@@ -1,5 +1,7 @@
 # Vehicle Speed Estimation with Perspective Correction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23478205.svg)](https://doi.org/10.5281/zenodo.23478205)
+
 Code for the manuscript:
 
 > Isogun, O., & Agagu, M. *Enhancing Vehicle Speed Estimation Accuracy Using Computer Vision* [Manuscript]. Department of Computer Science, Olusegun Agagu University of Science and Technology, Nigeria.
@@ -140,6 +142,10 @@ Both take the net distance between the first and last positions in the window, w
 ## Acknowledgements
 
 The pipeline structure follows P. Skalski, "How to Estimate Speed with Computer Vision", Roboflow Blog (2024), as cited in the manuscript. Built on [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), [Supervision](https://github.com/roboflow/supervision) and [OpenCV](https://opencv.org/).
+
+## Citing the code
+
+This repository is archived on Zenodo. To cite the code, use the DOI [10.5281/zenodo.23478205](https://doi.org/10.5281/zenodo.23478205), which always resolves to the latest version. Version `v0.1.0` has its own DOI, [10.5281/zenodo.23478206](https://doi.org/10.5281/zenodo.23478206). If you use the method, please also cite the manuscript at the top of this page.
 
 ## License
 
