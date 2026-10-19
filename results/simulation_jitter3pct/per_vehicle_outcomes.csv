@@ -1,0 +1,1921 @@
+scenario,variant,vehicle_id,tracker_id,true_speed_kmh,estimated_speed_kmh,outcome
+0,Perspective corrected (net displacement),18.0,52,65.76368634674871,62.76637109138197,correct
+0,Perspective corrected (net displacement),7.0,19,77.46862928258932,75.98261742274575,correct
+0,Perspective corrected (net displacement),14.0,59,52.373526132300555,52.53508150110792,correct
+0,Perspective corrected (net displacement),22.0,51,57.77449169852035,56.33159665279608,correct
+0,Perspective corrected (net displacement),5.0,1,45.707641532550355,43.626728350961905,correct
+0,Perspective corrected (net displacement),19.0,20,101.24181352850168,100.94642387884117,correct
+0,Perspective corrected (net displacement),23.0,53,84.53275927110975,84.62579342287668,correct
+0,Perspective corrected (net displacement),20.0,50,92.93169199255107,92.48433675861239,correct
+0,Perspective corrected (net displacement),9.0,2,114.11601950502306,113.91273179489454,correct
+0,Perspective corrected (net displacement),16.0,42,60.41430926523457,60.8728336311862,correct
+0,Perspective corrected (net displacement),6.0,3,72.3568864849152,71.80023647934573,correct
+0,Perspective corrected (net displacement),4.0,16,47.14081672641577,45.07134143703009,correct
+0,Perspective corrected (net displacement),3.0,31,123.41295353710024,122.98825106010698,correct
+0,Perspective corrected (net displacement),24.0,40,69.69100940987849,68.62158336358382,correct
+0,Perspective corrected (net displacement),2.0,8,97.43479622749766,97.13575119040033,correct
+0,Perspective corrected (net displacement),10.0,38,77.2003229884704,77.00220754736714,correct
+0,Perspective corrected (net displacement),15.0,10,114.6947498671635,113.07318865898529,correct
+0,Perspective corrected (net displacement),21.0,39,114.11769599988747,113.59717884348007,correct
+0,Perspective corrected (net displacement),8.0,4,85.84290770065653,85.13517150880263,correct
+0,Perspective corrected (net displacement),13.0,23,97.4184173451277,96.21177095317789,correct
+0,Perspective corrected (net displacement),17.0,22,123.44189264784274,122.59658908754955,correct
+0,Perspective corrected (net displacement),12.0,36,98.04341365178819,98.87355646409777,correct
+0,Perspective corrected (net displacement),1.0,5,122.05485521961549,122.01405375304539,correct
+0,Perspective corrected (net displacement),11.0,27,132.31334305567412,131.9750003311112,correct
+0,"Perspective corrected (path length, literal)",18.0,52,65.76368634674871,446.9405725863434,wrong
+0,"Perspective corrected (path length, literal)",7.0,19,77.46862928258932,278.756433456043,wrong
+0,"Perspective corrected (path length, literal)",14.0,59,52.373526132300555,470.6230319512033,wrong
+0,"Perspective corrected (path length, literal)",22.0,51,57.77449169852035,361.6177956336717,wrong
+0,"Perspective corrected (path length, literal)",5.0,1,45.707641532550355,231.58744981573977,wrong
+0,"Perspective corrected (path length, literal)",19.0,20,101.24181352850168,148.06786845304507,wrong
+0,"Perspective corrected (path length, literal)",23.0,53,84.53275927110975,159.45395376225994,wrong
+0,"Perspective corrected (path length, literal)",20.0,50,92.93169199255107,167.31125542646868,wrong
+0,"Perspective corrected (path length, literal)",9.0,2,114.11601950502306,133.16542506394202,wrong
+0,"Perspective corrected (path length, literal)",16.0,42,60.41430926523457,159.89115836951143,wrong
+0,"Perspective corrected (path length, literal)",6.0,3,72.3568864849152,138.31283810473136,wrong
+0,"Perspective corrected (path length, literal)",4.0,16,47.14081672641577,220.95046702073483,wrong
+0,"Perspective corrected (path length, literal)",3.0,31,123.41295353710024,139.08324710666685,wrong
+0,"Perspective corrected (path length, literal)",24.0,40,69.69100940987849,244.1196808093019,wrong
+0,"Perspective corrected (path length, literal)",2.0,8,97.43479622749766,137.21223986462465,wrong
+0,"Perspective corrected (path length, literal)",10.0,38,77.2003229884704,136.34447770201405,wrong
+0,"Perspective corrected (path length, literal)",15.0,10,114.6947498671635,138.1914592661318,wrong
+0,"Perspective corrected (path length, literal)",21.0,39,114.11769599988747,142.58300399027075,wrong
+0,"Perspective corrected (path length, literal)",8.0,4,85.84290770065653,148.72705887302382,wrong
+0,"Perspective corrected (path length, literal)",13.0,23,97.4184173451277,124.79139943992296,wrong
+0,"Perspective corrected (path length, literal)",17.0,22,123.44189264784274,151.2603701692561,wrong
+0,"Perspective corrected (path length, literal)",12.0,36,98.04341365178819,268.4969460481882,wrong
+0,"Perspective corrected (path length, literal)",1.0,5,122.05485521961549,176.48477263307186,wrong
+0,"Perspective corrected (path length, literal)",11.0,27,132.31334305567412,156.1645341627762,wrong
+0,Original 2024 script (legacy),18.0,52,65.76368634674871,61.2,correct
+0,Original 2024 script (legacy),7.0,19,77.46862928258932,75.60000000000001,correct
+0,Original 2024 script (legacy),14.0,59,52.373526132300555,50.4,correct
+0,Original 2024 script (legacy),22.0,51,57.77449169852035,56.925,correct
+0,Original 2024 script (legacy),5.0,1,45.707641532550355,43.2,correct
+0,Original 2024 script (legacy),19.0,20,101.24181352850168,97.2,correct
+0,Original 2024 script (legacy),23.0,53,84.53275927110975,82.8,correct
+0,Original 2024 script (legacy),20.0,50,92.93169199255107,90.0,correct
+0,Original 2024 script (legacy),9.0,2,114.11601950502306,108.0,wrong
+0,Original 2024 script (legacy),16.0,42,60.41430926523457,61.2,correct
+0,Original 2024 script (legacy),6.0,3,72.3568864849152,68.4,correct
+0,Original 2024 script (legacy),4.0,16,47.14081672641577,43.2,correct
+0,Original 2024 script (legacy),3.0,31,123.41295353710024,118.8,correct
+0,Original 2024 script (legacy),24.0,40,69.69100940987849,64.8,correct
+0,Original 2024 script (legacy),2.0,8,97.43479622749766,93.60000000000001,correct
+0,Original 2024 script (legacy),10.0,38,77.2003229884704,75.60000000000001,correct
+0,Original 2024 script (legacy),15.0,10,114.6947498671635,111.60000000000001,correct
+0,Original 2024 script (legacy),21.0,39,114.11769599988747,111.60000000000001,correct
+0,Original 2024 script (legacy),8.0,4,85.84290770065653,82.8,correct
+0,Original 2024 script (legacy),13.0,23,97.4184173451277,97.2,correct
+0,Original 2024 script (legacy),17.0,22,123.44189264784274,118.8,correct
+0,Original 2024 script (legacy),12.0,36,98.04341365178819,93.60000000000001,correct
+0,Original 2024 script (legacy),1.0,5,122.05485521961549,118.8,correct
+0,Original 2024 script (legacy),11.0,27,132.31334305567412,129.6,correct
+0,No correction (constant scale),18.0,52,65.76368634674871,26.4483197388165,wrong
+0,No correction (constant scale),7.0,19,77.46862928258932,55.52424133004234,wrong
+0,No correction (constant scale),14.0,59,52.373526132300555,19.102416915150478,wrong
+0,No correction (constant scale),22.0,51,57.77449169852035,18.301054043233872,wrong
+0,No correction (constant scale),5.0,1,45.707641532550355,32.55633307411826,wrong
+0,No correction (constant scale),19.0,20,101.24181352850168,57.707463492780604,wrong
+0,No correction (constant scale),23.0,53,84.53275927110975,29.001658756468423,wrong
+0,No correction (constant scale),20.0,50,92.93169199255107,28.517572638850904,wrong
+0,No correction (constant scale),9.0,2,114.11601950502306,97.21296278950061,wrong
+0,No correction (constant scale),16.0,42,60.41430926523457,20.30422567287944,wrong
+0,No correction (constant scale),6.0,3,72.3568864849152,38.07664428132246,wrong
+0,No correction (constant scale),4.0,16,47.14081672641577,48.11434018186213,correct
+0,No correction (constant scale),3.0,31,123.41295353710024,94.81560791393993,wrong
+0,No correction (constant scale),24.0,40,69.69100940987849,75.72093691219624,wrong
+0,No correction (constant scale),2.0,8,97.43479622749766,73.68531555538395,wrong
+0,No correction (constant scale),10.0,38,77.2003229884704,56.18994944879802,wrong
+0,No correction (constant scale),15.0,10,114.6947498671635,113.90472525038243,correct
+0,No correction (constant scale),21.0,39,114.11769599988747,109.79436950445522,correct
+0,No correction (constant scale),8.0,4,85.84290770065653,59.09822865847174,wrong
+0,No correction (constant scale),13.0,23,97.4184173451277,95.90744783075769,correct
+0,No correction (constant scale),17.0,22,123.44189264784274,129.0034759861447,wrong
+0,No correction (constant scale),12.0,36,98.04341365178819,97.48498970217247,correct
+0,No correction (constant scale),1.0,5,122.05485521961549,115.78878584264856,wrong
+0,No correction (constant scale),11.0,27,132.31334305567412,148.9134663748563,wrong
+1,Perspective corrected (net displacement),20.0,18,125.68258189605955,125.50427777161885,correct
+1,Perspective corrected (net displacement),13.0,35,71.50387610101544,69.65951442566009,correct
+1,Perspective corrected (net displacement),5.0,6,53.03922790796274,51.83303948938595,correct
+1,Perspective corrected (net displacement),10.0,28,131.30923363061146,131.3403459346285,correct
+1,Perspective corrected (net displacement),2.0,1,73.737927249763,71.57863034698207,correct
+1,Perspective corrected (net displacement),12.0,30,137.95903835897366,136.72055592362494,correct
+1,Perspective corrected (net displacement),22.0,2,101.12858549738664,100.52010857532186,correct
+1,Perspective corrected (net displacement),7.0,17,84.88247598586092,83.61359455500829,correct
+1,Perspective corrected (net displacement),4.0,3,61.34256418595606,61.036598232171144,correct
+1,Perspective corrected (net displacement),9.0,14,67.33931775647123,65.76493900500142,correct
+1,Perspective corrected (net displacement),6.0,57,64.14685220133393,63.52018986841586,correct
+1,Perspective corrected (net displacement),16.0,42,117.14798644195633,116.760974539122,correct
+1,Perspective corrected (net displacement),18.0,54,117.92716674449343,118.1090508944841,correct
+1,Perspective corrected (net displacement),21.0,13,116.37061896808483,115.58488663555796,correct
+1,Perspective corrected (net displacement),8.0,33,79.34559892630503,78.97614042271638,correct
+1,Perspective corrected (net displacement),1.0,40,85.49686707884135,85.32356585672605,correct
+1,Perspective corrected (net displacement),3.0,27,107.27222814123293,107.4668363929741,correct
+1,Perspective corrected (net displacement),17.0,4,89.5858141443859,89.63887990770728,correct
+1,Perspective corrected (net displacement),11.0,21,73.6047054918219,73.67316726983879,correct
+1,Perspective corrected (net displacement),14.0,49,67.92374499775185,68.62410411449092,correct
+1,Perspective corrected (net displacement),15.0,37,139.17536080359753,139.1162218940987,correct
+1,Perspective corrected (net displacement),24.0,25,97.32672886197052,98.0246647933429,correct
+1,Perspective corrected (net displacement),19.0,60,56.636068528914606,55.89565221566809,correct
+1,Perspective corrected (net displacement),23.0,39,114.86270346288225,114.6561156889793,correct
+1,"Perspective corrected (path length, literal)",20.0,18,125.68258189605955,138.51604244771434,wrong
+1,"Perspective corrected (path length, literal)",13.0,35,71.50387610101544,267.88237232320824,wrong
+1,"Perspective corrected (path length, literal)",5.0,6,53.03922790796274,270.5107997684662,wrong
+1,"Perspective corrected (path length, literal)",10.0,28,131.30923363061146,165.67408188802509,wrong
+1,"Perspective corrected (path length, literal)",2.0,1,73.737927249763,274.1419103325955,wrong
+1,"Perspective corrected (path length, literal)",12.0,30,137.95903835897366,191.70177221592763,wrong
+1,"Perspective corrected (path length, literal)",22.0,2,101.12858549738664,134.56543656698133,wrong
+1,"Perspective corrected (path length, literal)",7.0,17,84.88247598586092,142.15214585882322,wrong
+1,"Perspective corrected (path length, literal)",4.0,3,61.34256418595606,115.30672122539364,wrong
+1,"Perspective corrected (path length, literal)",9.0,14,67.33931775647123,257.92266758200867,wrong
+1,"Perspective corrected (path length, literal)",6.0,57,64.14685220133393,101.39433451652144,wrong
+1,"Perspective corrected (path length, literal)",16.0,42,117.14798644195633,145.7189366260692,wrong
+1,"Perspective corrected (path length, literal)",18.0,54,117.92716674449343,157.87640836607312,wrong
+1,"Perspective corrected (path length, literal)",21.0,13,116.37061896808483,148.79411827526266,wrong
+1,"Perspective corrected (path length, literal)",8.0,33,79.34559892630503,132.2239083256716,wrong
+1,"Perspective corrected (path length, literal)",1.0,40,85.49686707884135,132.6634110112202,wrong
+1,"Perspective corrected (path length, literal)",3.0,27,107.27222814123293,135.7301706702348,wrong
+1,"Perspective corrected (path length, literal)",17.0,4,89.5858141443859,141.1852580946664,wrong
+1,"Perspective corrected (path length, literal)",11.0,21,73.6047054918219,124.19173077335692,wrong
+1,"Perspective corrected (path length, literal)",14.0,49,67.92374499775185,96.61677465068198,wrong
+1,"Perspective corrected (path length, literal)",15.0,37,139.17536080359753,153.6550066464986,wrong
+1,"Perspective corrected (path length, literal)",24.0,25,97.32672886197052,244.08134474657365,wrong
+1,"Perspective corrected (path length, literal)",19.0,60,56.636068528914606,234.87944837977184,wrong
+1,"Perspective corrected (path length, literal)",23.0,39,114.86270346288225,166.7135384911786,wrong
+1,Original 2024 script (legacy),20.0,18,125.68258189605955,122.4,correct
+1,Original 2024 script (legacy),13.0,35,71.50387610101544,68.4,correct
+1,Original 2024 script (legacy),5.0,6,53.03922790796274,50.4,correct
+1,Original 2024 script (legacy),10.0,28,131.30923363061146,133.20000000000002,correct
+1,Original 2024 script (legacy),2.0,1,73.737927249763,68.4,wrong
+1,Original 2024 script (legacy),12.0,30,137.95903835897366,140.4,correct
+1,Original 2024 script (legacy),22.0,2,101.12858549738664,97.2,correct
+1,Original 2024 script (legacy),7.0,17,84.88247598586092,79.2,wrong
+1,Original 2024 script (legacy),4.0,3,61.34256418595606,57.6,correct
+1,Original 2024 script (legacy),9.0,14,67.33931775647123,64.8,correct
+1,Original 2024 script (legacy),6.0,57,64.14685220133393,61.2,correct
+1,Original 2024 script (legacy),16.0,42,117.14798644195633,115.2,correct
+1,Original 2024 script (legacy),18.0,54,117.92716674449343,115.2,correct
+1,Original 2024 script (legacy),21.0,13,116.37061896808483,111.60000000000001,correct
+1,Original 2024 script (legacy),8.0,33,79.34559892630503,79.2,correct
+1,Original 2024 script (legacy),1.0,40,85.49686707884135,82.8,correct
+1,Original 2024 script (legacy),3.0,27,107.27222814123293,108.0,correct
+1,Original 2024 script (legacy),17.0,4,89.5858141443859,86.4,correct
+1,Original 2024 script (legacy),11.0,21,73.6047054918219,72.0,correct
+1,Original 2024 script (legacy),14.0,49,67.92374499775185,68.4,correct
+1,Original 2024 script (legacy),15.0,37,139.17536080359753,140.4,correct
+1,Original 2024 script (legacy),24.0,25,97.32672886197052,97.2,correct
+1,Original 2024 script (legacy),19.0,60,56.636068528914606,57.6,correct
+1,Original 2024 script (legacy),23.0,39,114.86270346288225,111.60000000000001,correct
+1,No correction (constant scale),20.0,18,125.68258189605955,87.19568465633533,wrong
+1,No correction (constant scale),13.0,35,71.50387610101544,50.96425108441327,wrong
+1,No correction (constant scale),5.0,6,53.03922790796274,38.75417566628582,wrong
+1,No correction (constant scale),10.0,28,131.30923363061146,54.07228972772687,wrong
+1,No correction (constant scale),2.0,1,73.737927249763,52.4861302527981,wrong
+1,No correction (constant scale),12.0,30,137.95903835897366,59.72456180039933,wrong
+1,No correction (constant scale),22.0,2,101.12858549738664,102.31189811486468,correct
+1,No correction (constant scale),7.0,17,84.88247598586092,45.21222403819688,wrong
+1,No correction (constant scale),4.0,3,61.34256418595606,39.10784288442999,wrong
+1,No correction (constant scale),9.0,14,67.33931775647123,37.95726968793273,wrong
+1,No correction (constant scale),6.0,57,64.14685220133393,121.38843256142108,wrong
+1,No correction (constant scale),16.0,42,117.14798644195633,88.09222332885275,wrong
+1,No correction (constant scale),18.0,54,117.92716674449343,94.73927578279401,wrong
+1,No correction (constant scale),21.0,13,116.37061896808483,89.08811743450103,wrong
+1,No correction (constant scale),8.0,33,79.34559892630503,60.502697559653136,wrong
+1,No correction (constant scale),1.0,40,85.49686707884135,85.8573311182373,correct
+1,No correction (constant scale),3.0,27,107.27222814123293,95.68008735339207,wrong
+1,No correction (constant scale),17.0,4,89.5858141443859,60.371529609804035,wrong
+1,No correction (constant scale),11.0,21,73.6047054918219,71.55821960055084,correct
+1,No correction (constant scale),14.0,49,67.92374499775185,111.05479819863959,wrong
+1,No correction (constant scale),15.0,37,139.17536080359753,328.5750087159588,wrong
+1,No correction (constant scale),24.0,25,97.32672886197052,99.55018348337452,correct
+1,No correction (constant scale),19.0,60,56.636068528914606,162.9982962222257,wrong
+1,No correction (constant scale),23.0,39,114.86270346288225,121.40108102098087,wrong
+2,Perspective corrected (net displacement),20.0,50,95.95537575468327,95.34370454211933,correct
+2,Perspective corrected (net displacement),17.0,28,127.92725451704729,127.00570987200093,correct
+2,Perspective corrected (net displacement),24.0,1,80.4723327738005,79.37363143106198,correct
+2,Perspective corrected (net displacement),6.0,12,58.56589964179028,56.07871065447553,correct
+2,Perspective corrected (net displacement),1.0,41,108.25185200412494,107.56656554537227,correct
+2,Perspective corrected (net displacement),3.0,9,116.4266963671563,115.09088574528238,correct
+2,Perspective corrected (net displacement),5.0,42,98.21839175349484,98.47137232314137,correct
+2,Perspective corrected (net displacement),12.0,18,112.36138504124162,112.55971593869859,correct
+2,Perspective corrected (net displacement),18.0,6,90.83011000484532,89.21322359268453,correct
+2,Perspective corrected (net displacement),9.0,25,109.33640067729254,108.98139981287335,correct
+2,Perspective corrected (net displacement),22.0,34,91.98342780088193,91.5443777046103,correct
+2,Perspective corrected (net displacement),16.0,38,139.53430890240642,139.26453874265144,correct
+2,Perspective corrected (net displacement),7.0,27,75.14656155425848,74.8162885449982,correct
+2,Perspective corrected (net displacement),19.0,2,78.81184533574978,78.42106445961511,correct
+2,Perspective corrected (net displacement),21.0,30,70.33895138313811,69.92851774424744,correct
+2,Perspective corrected (net displacement),15.0,10,101.36426603010588,100.81109628699808,correct
+2,Perspective corrected (net displacement),23.0,3,123.42046950005334,123.39372090661516,correct
+2,Perspective corrected (net displacement),10.0,4,64.37311205812561,64.01212290405542,correct
+2,Perspective corrected (net displacement),4.0,51,130.62900535973407,130.16545415321332,correct
+2,Perspective corrected (net displacement),8.0,5,124.01994805860649,124.10722948054901,correct
+2,Perspective corrected (net displacement),13.0,46,118.6343717383524,118.69685874331606,correct
+2,Perspective corrected (net displacement),14.0,44,77.48429313583063,77.67765318865104,correct
+2,Perspective corrected (net displacement),11.0,23,109.85199875290247,109.59354247098244,correct
+2,Perspective corrected (net displacement),2.0,22,71.23488000777053,70.071744083302,correct
+2,"Perspective corrected (path length, literal)",20.0,50,95.95537575468327,162.59898315711587,wrong
+2,"Perspective corrected (path length, literal)",17.0,28,127.92725451704729,171.73317748752834,wrong
+2,"Perspective corrected (path length, literal)",24.0,1,80.4723327738005,136.62949732870547,wrong
+2,"Perspective corrected (path length, literal)",6.0,12,58.56589964179028,254.86546803377468,wrong
+2,"Perspective corrected (path length, literal)",1.0,41,108.25185200412494,162.74599036002104,wrong
+2,"Perspective corrected (path length, literal)",3.0,9,116.4266963671563,163.37666320297328,wrong
+2,"Perspective corrected (path length, literal)",5.0,42,98.21839175349484,145.55999306882302,wrong
+2,"Perspective corrected (path length, literal)",12.0,18,112.36138504124162,153.5207443364935,wrong
+2,"Perspective corrected (path length, literal)",18.0,6,90.83011000484532,322.89610255409656,wrong
+2,"Perspective corrected (path length, literal)",9.0,25,109.33640067729254,146.15766020011912,wrong
+2,"Perspective corrected (path length, literal)",22.0,34,91.98342780088193,120.63124104141838,wrong
+2,"Perspective corrected (path length, literal)",16.0,38,139.53430890240642,165.23848926012687,wrong
+2,"Perspective corrected (path length, literal)",7.0,27,75.14656155425848,153.61054823032322,wrong
+2,"Perspective corrected (path length, literal)",19.0,2,78.81184533574978,418.69542746808344,wrong
+2,"Perspective corrected (path length, literal)",21.0,30,70.33895138313811,304.64256659519185,wrong
+2,"Perspective corrected (path length, literal)",15.0,10,101.36426603010588,123.35058854965096,wrong
+2,"Perspective corrected (path length, literal)",23.0,3,123.42046950005334,173.35659114778406,wrong
+2,"Perspective corrected (path length, literal)",10.0,4,64.37311205812561,150.65220392586116,wrong
+2,"Perspective corrected (path length, literal)",4.0,51,130.62900535973407,158.10008515327814,wrong
+2,"Perspective corrected (path length, literal)",8.0,5,124.01994805860649,160.65295401888963,wrong
+2,"Perspective corrected (path length, literal)",13.0,46,118.6343717383524,160.04527603437265,wrong
+2,"Perspective corrected (path length, literal)",14.0,44,77.48429313583063,144.03135800305813,wrong
+2,"Perspective corrected (path length, literal)",11.0,23,109.85199875290247,165.0504040850497,wrong
+2,"Perspective corrected (path length, literal)",2.0,22,71.23488000777053,316.2264602521569,wrong
+2,Original 2024 script (legacy),20.0,50,95.95537575468327,93.60000000000001,correct
+2,Original 2024 script (legacy),17.0,28,127.92725451704729,126.0,correct
+2,Original 2024 script (legacy),24.0,1,80.4723327738005,75.60000000000001,correct
+2,Original 2024 script (legacy),6.0,12,58.56589964179028,57.6,correct
+2,Original 2024 script (legacy),1.0,41,108.25185200412494,104.4,correct
+2,Original 2024 script (legacy),3.0,9,116.4266963671563,115.2,correct
+2,Original 2024 script (legacy),5.0,42,98.21839175349484,93.60000000000001,correct
+2,Original 2024 script (legacy),12.0,18,112.36138504124162,111.60000000000001,correct
+2,Original 2024 script (legacy),18.0,6,90.83011000484532,86.4,correct
+2,Original 2024 script (legacy),9.0,25,109.33640067729254,104.4,correct
+2,Original 2024 script (legacy),22.0,34,91.98342780088193,90.0,correct
+2,Original 2024 script (legacy),16.0,38,139.53430890240642,136.8,correct
+2,Original 2024 script (legacy),7.0,27,75.14656155425848,75.60000000000001,correct
+2,Original 2024 script (legacy),19.0,2,78.81184533574978,75.60000000000001,correct
+2,Original 2024 script (legacy),21.0,30,70.33895138313811,68.4,correct
+2,Original 2024 script (legacy),15.0,10,101.36426603010588,97.2,correct
+2,Original 2024 script (legacy),23.0,3,123.42046950005334,120.00000000000001,correct
+2,Original 2024 script (legacy),10.0,4,64.37311205812561,61.2,correct
+2,Original 2024 script (legacy),4.0,51,130.62900535973407,129.6,correct
+2,Original 2024 script (legacy),8.0,5,124.01994805860649,118.8,wrong
+2,Original 2024 script (legacy),13.0,46,118.6343717383524,115.2,correct
+2,Original 2024 script (legacy),14.0,44,77.48429313583063,75.60000000000001,correct
+2,Original 2024 script (legacy),11.0,23,109.85199875290247,108.0,correct
+2,Original 2024 script (legacy),2.0,22,71.23488000777053,68.4,correct
+2,No correction (constant scale),20.0,50,95.95537575468327,51.718130734851854,wrong
+2,No correction (constant scale),17.0,28,127.92725451704729,72.1106683656053,wrong
+2,No correction (constant scale),24.0,1,80.4723327738005,71.16603667267019,wrong
+2,No correction (constant scale),6.0,12,58.56589964179028,31.302703842168867,wrong
+2,No correction (constant scale),1.0,41,108.25185200412494,54.460665608078656,wrong
+2,No correction (constant scale),3.0,9,116.4266963671563,57.3052476458174,wrong
+2,No correction (constant scale),5.0,42,98.21839175349484,70.15572477791696,wrong
+2,No correction (constant scale),12.0,18,112.36138504124162,82.59502270577407,wrong
+2,No correction (constant scale),18.0,6,90.83011000484532,48.090629223324854,wrong
+2,No correction (constant scale),9.0,25,109.33640067729254,82.68550714491911,wrong
+2,No correction (constant scale),22.0,34,91.98342780088193,67.68617816978069,wrong
+2,No correction (constant scale),16.0,38,139.53430890240642,117.3414282907611,wrong
+2,No correction (constant scale),7.0,27,75.14656155425848,69.15583002780107,wrong
+2,No correction (constant scale),19.0,2,78.81184533574978,45.71745316279883,wrong
+2,No correction (constant scale),21.0,30,70.33895138313811,63.37450313603759,wrong
+2,No correction (constant scale),15.0,10,101.36426603010588,141.69519505910233,wrong
+2,No correction (constant scale),23.0,3,123.42046950005334,65.94970616741085,wrong
+2,No correction (constant scale),10.0,4,64.37311205812561,44.58198823948985,wrong
+2,No correction (constant scale),4.0,51,130.62900535973407,125.31690872713463,wrong
+2,No correction (constant scale),8.0,5,124.01994805860649,93.09975155667433,wrong
+2,No correction (constant scale),13.0,46,118.6343717383524,108.8932884033238,wrong
+2,No correction (constant scale),14.0,44,77.48429313583063,93.84347936591254,wrong
+2,No correction (constant scale),11.0,23,109.85199875290247,117.6744002816428,wrong
+2,No correction (constant scale),2.0,22,71.23488000777053,76.6321013551008,wrong
+3,Perspective corrected (net displacement),23.0,48,83.84564610724438,83.27252134449608,correct
+3,Perspective corrected (net displacement),6.0,46,111.92632452995484,112.71754357085018,correct
+3,Perspective corrected (net displacement),9.0,40,65.49245327348264,65.56920640109743,correct
+3,Perspective corrected (net displacement),3.0,1,89.73481266263624,89.14339257263995,correct
+3,Perspective corrected (net displacement),11.0,20,97.14980556091388,95.93110959952737,correct
+3,Perspective corrected (net displacement),20.0,2,91.15989030977757,91.02619290778067,correct
+3,Perspective corrected (net displacement),22.0,45,61.605319067407805,60.5070756306176,correct
+3,Perspective corrected (net displacement),5.0,25,97.1936547633666,94.89708628999227,correct
+3,Perspective corrected (net displacement),10.0,3,103.93651594603864,103.62376368859623,correct
+3,Perspective corrected (net displacement),19.0,21,135.60466829177767,135.2648470115077,correct
+3,Perspective corrected (net displacement),24.0,33,103.44633074440787,101.23405941219588,correct
+3,Perspective corrected (net displacement),7.0,30,89.86153788162326,89.93501677217442,correct
+3,Perspective corrected (net displacement),16.0,49,77.61525320457363,76.1976714288072,correct
+3,Perspective corrected (net displacement),8.0,38,127.43725152199391,126.27134932450926,correct
+3,Perspective corrected (net displacement),12.0,4,83.02250603315353,82.16378307443868,correct
+3,Perspective corrected (net displacement),1.0,5,94.70669311647184,91.97052442370983,correct
+3,Perspective corrected (net displacement),14.0,6,131.6241622834978,131.90757589390645,correct
+3,Perspective corrected (net displacement),17.0,17,89.8297097965916,89.28525554365204,correct
+3,Perspective corrected (net displacement),18.0,18,119.3343715659141,120.04357269819187,correct
+3,Perspective corrected (net displacement),2.0,47,136.5540802762693,138.89887055667467,correct
+3,Perspective corrected (net displacement),21.0,7,74.72090516550259,76.86393261859332,correct
+3,Perspective corrected (net displacement),4.0,10,101.42673708934957,101.56434817428118,correct
+3,Perspective corrected (net displacement),13.0,35,63.54492002699195,63.806152270765864,correct
+3,Perspective corrected (net displacement),15.0,15,126.86991004157287,127.01652409722796,correct
+3,"Perspective corrected (path length, literal)",23.0,48,83.84564610724438,157.86731060985383,wrong
+3,"Perspective corrected (path length, literal)",6.0,46,111.92632452995484,156.6101952199528,wrong
+3,"Perspective corrected (path length, literal)",9.0,40,65.49245327348264,155.58037828647622,wrong
+3,"Perspective corrected (path length, literal)",3.0,1,89.73481266263624,245.57619904451224,wrong
+3,"Perspective corrected (path length, literal)",11.0,20,97.14980556091388,162.4133598527526,wrong
+3,"Perspective corrected (path length, literal)",20.0,2,91.15989030977757,113.02384855977277,wrong
+3,"Perspective corrected (path length, literal)",22.0,45,61.605319067407805,163.46552603738812,wrong
+3,"Perspective corrected (path length, literal)",5.0,25,97.1936547633666,287.5028478533475,wrong
+3,"Perspective corrected (path length, literal)",10.0,3,103.93651594603864,144.7672070073474,wrong
+3,"Perspective corrected (path length, literal)",19.0,21,135.60466829177767,172.76521441825494,wrong
+3,"Perspective corrected (path length, literal)",24.0,33,103.44633074440787,284.31882458783116,wrong
+3,"Perspective corrected (path length, literal)",7.0,30,89.86153788162326,160.70910200360896,wrong
+3,"Perspective corrected (path length, literal)",16.0,49,77.61525320457363,397.3891858677222,wrong
+3,"Perspective corrected (path length, literal)",8.0,38,127.43725152199391,162.27132790090798,wrong
+3,"Perspective corrected (path length, literal)",12.0,4,83.02250603315353,228.98709752529436,wrong
+3,"Perspective corrected (path length, literal)",1.0,5,94.70669311647184,303.52664548595146,wrong
+3,"Perspective corrected (path length, literal)",14.0,6,131.6241622834978,168.50039001076848,wrong
+3,"Perspective corrected (path length, literal)",17.0,17,89.8297097965916,159.55470387215945,wrong
+3,"Perspective corrected (path length, literal)",18.0,18,119.3343715659141,149.76315812371178,wrong
+3,"Perspective corrected (path length, literal)",2.0,47,136.5540802762693,184.3887051415016,wrong
+3,"Perspective corrected (path length, literal)",21.0,7,74.72090516550259,130.42766099574084,wrong
+3,"Perspective corrected (path length, literal)",4.0,10,101.42673708934957,148.3599441646093,wrong
+3,"Perspective corrected (path length, literal)",13.0,35,63.54492002699195,141.42938820703782,wrong
+3,"Perspective corrected (path length, literal)",15.0,15,126.86991004157287,152.36883099548194,wrong
+3,Original 2024 script (legacy),23.0,48,83.84564610724438,81.42857142857143,correct
+3,Original 2024 script (legacy),6.0,46,111.92632452995484,108.0,correct
+3,Original 2024 script (legacy),9.0,40,65.49245327348264,64.8,correct
+3,Original 2024 script (legacy),3.0,1,89.73481266263624,86.4,correct
+3,Original 2024 script (legacy),11.0,20,97.14980556091388,93.60000000000001,correct
+3,Original 2024 script (legacy),20.0,2,91.15989030977757,90.0,correct
+3,Original 2024 script (legacy),22.0,45,61.605319067407805,57.6,correct
+3,Original 2024 script (legacy),5.0,25,97.1936547633666,93.60000000000001,correct
+3,Original 2024 script (legacy),10.0,3,103.93651594603864,100.8,correct
+3,Original 2024 script (legacy),19.0,21,135.60466829177767,129.6,wrong
+3,Original 2024 script (legacy),24.0,33,103.44633074440787,97.2,wrong
+3,Original 2024 script (legacy),7.0,30,89.86153788162326,86.4,correct
+3,Original 2024 script (legacy),16.0,49,77.61525320457363,72.0,wrong
+3,Original 2024 script (legacy),8.0,38,127.43725152199391,126.0,correct
+3,Original 2024 script (legacy),12.0,4,83.02250603315353,79.2,correct
+3,Original 2024 script (legacy),1.0,5,94.70669311647184,90.0,correct
+3,Original 2024 script (legacy),14.0,6,131.6241622834978,126.0,wrong
+3,Original 2024 script (legacy),17.0,17,89.8297097965916,86.4,correct
+3,Original 2024 script (legacy),18.0,18,119.3343715659141,115.2,correct
+3,Original 2024 script (legacy),2.0,47,136.5540802762693,135.9,correct
+3,Original 2024 script (legacy),21.0,7,74.72090516550259,75.60000000000001,correct
+3,Original 2024 script (legacy),4.0,10,101.42673708934957,97.2,correct
+3,Original 2024 script (legacy),13.0,35,63.54492002699195,64.8,correct
+3,Original 2024 script (legacy),15.0,15,126.86991004157287,126.0,correct
+3,No correction (constant scale),23.0,48,83.84564610724438,36.470684649761004,wrong
+3,No correction (constant scale),6.0,46,111.92632452995484,82.11258273581225,wrong
+3,No correction (constant scale),9.0,40,65.49245327348264,30.048028759338703,wrong
+3,No correction (constant scale),3.0,1,89.73481266263624,98.07057251657011,wrong
+3,No correction (constant scale),11.0,20,97.14980556091388,57.70418843697755,wrong
+3,No correction (constant scale),20.0,2,91.15989030977757,130.5910477975414,wrong
+3,No correction (constant scale),22.0,45,61.605319067407805,20.655520214619223,wrong
+3,No correction (constant scale),5.0,25,97.1936547633666,59.496370867490874,wrong
+3,No correction (constant scale),10.0,3,103.93651594603864,75.46475091508282,wrong
+3,No correction (constant scale),19.0,21,135.60466829177767,74.35878347128659,wrong
+3,No correction (constant scale),24.0,33,103.44633074440787,59.62969720873896,wrong
+3,No correction (constant scale),7.0,30,89.86153788162326,48.45593086667533,wrong
+3,No correction (constant scale),16.0,49,77.61525320457363,23.732688412273617,wrong
+3,No correction (constant scale),8.0,38,127.43725152199391,64.83039766489381,wrong
+3,No correction (constant scale),12.0,4,83.02250603315353,78.06276812728788,correct
+3,No correction (constant scale),1.0,5,94.70669311647184,60.23598467145425,wrong
+3,No correction (constant scale),14.0,6,131.6241622834978,102.45094994363537,wrong
+3,No correction (constant scale),17.0,17,89.8297097965916,90.69318646069797,correct
+3,No correction (constant scale),18.0,18,119.3343715659141,124.13851336702825,correct
+3,No correction (constant scale),2.0,47,136.5540802762693,87.68678798219162,wrong
+3,No correction (constant scale),21.0,7,74.72090516550259,85.46092817340205,wrong
+3,No correction (constant scale),4.0,10,101.42673708934957,173.94278732403197,wrong
+3,No correction (constant scale),13.0,35,63.54492002699195,68.77652517391647,wrong
+3,No correction (constant scale),15.0,15,126.86991004157287,137.12763025865044,wrong
+4,Perspective corrected (net displacement),18.0,1,133.01110677624757,131.86661698308038,correct
+4,Perspective corrected (net displacement),15.0,2,104.92814925794411,104.6870060180138,correct
+4,Perspective corrected (net displacement),21.0,30,82.86577181095765,82.94256368734332,correct
+4,Perspective corrected (net displacement),1.0,3,108.1198686098686,107.35080499845962,correct
+4,Perspective corrected (net displacement),2.0,16,109.75068742371063,109.36696346642836,correct
+4,Perspective corrected (net displacement),10.0,4,93.30815939350015,92.96172355575078,correct
+4,Perspective corrected (net displacement),24.0,47,110.95731176984853,110.23811565573709,correct
+4,Perspective corrected (net displacement),13.0,33,103.66351860183654,103.00481652449221,correct
+4,Perspective corrected (net displacement),23.0,13,67.68443255098754,67.55677217084195,correct
+4,Perspective corrected (net displacement),12.0,40,85.14557029630822,84.68529119083837,correct
+4,Perspective corrected (net displacement),19.0,35,93.38408545685334,90.62280254211166,correct
+4,Perspective corrected (net displacement),6.0,5,77.37186059348225,79.81052207016853,correct
+4,Perspective corrected (net displacement),9.0,6,97.30425577625321,92.50629961904698,correct
+4,Perspective corrected (net displacement),22.0,51,83.2334361295139,82.94369298850204,correct
+4,Perspective corrected (net displacement),3.0,43,100.99058507865283,99.45434013646923,correct
+4,Perspective corrected (net displacement),16.0,23,72.7798591966736,72.61046044714259,correct
+4,Perspective corrected (net displacement),7.0,7,61.35017720779983,61.39996270005817,correct
+4,Perspective corrected (net displacement),11.0,8,77.37690428171922,77.18130017687622,correct
+4,Perspective corrected (net displacement),17.0,14,110.95844887665457,110.58503315726512,correct
+4,Perspective corrected (net displacement),4.0,27,88.26198840483585,87.97710102324268,correct
+4,Perspective corrected (net displacement),20.0,39,124.37024799344422,124.18150492391003,correct
+4,Perspective corrected (net displacement),8.0,28,95.75340638670346,92.43231330365913,correct
+4,Perspective corrected (net displacement),5.0,46,66.64935981881939,66.70908307776854,correct
+4,Perspective corrected (net displacement),14.0,21,71.48971544906841,71.42053113971504,correct
+4,"Perspective corrected (path length, literal)",18.0,1,133.01110677624757,138.21886538414375,wrong
+4,"Perspective corrected (path length, literal)",15.0,2,104.92814925794411,248.18535794371837,wrong
+4,"Perspective corrected (path length, literal)",21.0,30,82.86577181095765,133.98187607182047,wrong
+4,"Perspective corrected (path length, literal)",1.0,3,108.1198686098686,116.07108787356711,wrong
+4,"Perspective corrected (path length, literal)",2.0,16,109.75068742371063,154.59773961673366,wrong
+4,"Perspective corrected (path length, literal)",10.0,4,93.30815939350015,273.98458037359654,wrong
+4,"Perspective corrected (path length, literal)",24.0,47,110.95731176984853,159.5832325836607,wrong
+4,"Perspective corrected (path length, literal)",13.0,33,103.66351860183654,150.4488625040753,wrong
+4,"Perspective corrected (path length, literal)",23.0,13,67.68443255098754,139.13603537119272,wrong
+4,"Perspective corrected (path length, literal)",12.0,40,85.14557029630822,135.76153469688106,wrong
+4,"Perspective corrected (path length, literal)",19.0,35,93.38408545685334,363.57787704690077,wrong
+4,"Perspective corrected (path length, literal)",6.0,5,77.37186059348225,119.35648390986113,wrong
+4,"Perspective corrected (path length, literal)",9.0,6,97.30425577625321,135.1242265128499,wrong
+4,"Perspective corrected (path length, literal)",22.0,51,83.2334361295139,112.16982082160949,wrong
+4,"Perspective corrected (path length, literal)",3.0,43,100.99058507865283,163.76651775205795,wrong
+4,"Perspective corrected (path length, literal)",16.0,23,72.7798591966736,132.05949470177868,wrong
+4,"Perspective corrected (path length, literal)",7.0,7,61.35017720779983,110.14234660030215,wrong
+4,"Perspective corrected (path length, literal)",11.0,8,77.37690428171922,134.94876153425386,wrong
+4,"Perspective corrected (path length, literal)",17.0,14,110.95844887665457,123.82612644176382,wrong
+4,"Perspective corrected (path length, literal)",4.0,27,88.26198840483585,135.6861898855952,wrong
+4,"Perspective corrected (path length, literal)",20.0,39,124.37024799344422,167.7422325981629,wrong
+4,"Perspective corrected (path length, literal)",8.0,28,95.75340638670346,259.5858758562497,wrong
+4,"Perspective corrected (path length, literal)",5.0,46,66.64935981881939,86.87945678915696,wrong
+4,"Perspective corrected (path length, literal)",14.0,21,71.48971544906841,144.80932119291086,wrong
+4,Original 2024 script (legacy),18.0,1,133.01110677624757,129.6,correct
+4,Original 2024 script (legacy),15.0,2,104.92814925794411,100.8,correct
+4,Original 2024 script (legacy),21.0,30,82.86577181095765,82.8,correct
+4,Original 2024 script (legacy),1.0,3,108.1198686098686,104.4,correct
+4,Original 2024 script (legacy),2.0,16,109.75068742371063,104.4,wrong
+4,Original 2024 script (legacy),10.0,4,93.30815939350015,90.0,correct
+4,Original 2024 script (legacy),24.0,47,110.95731176984853,108.0,correct
+4,Original 2024 script (legacy),13.0,33,103.66351860183654,100.8,correct
+4,Original 2024 script (legacy),23.0,13,67.68443255098754,64.8,correct
+4,Original 2024 script (legacy),12.0,40,85.14557029630822,82.8,correct
+4,Original 2024 script (legacy),19.0,35,93.38408545685334,90.0,correct
+4,Original 2024 script (legacy),6.0,5,77.37186059348225,79.2,correct
+4,Original 2024 script (legacy),9.0,6,97.30425577625321,93.60000000000001,correct
+4,Original 2024 script (legacy),22.0,51,83.2334361295139,82.8,correct
+4,Original 2024 script (legacy),3.0,43,100.99058507865283,100.8,correct
+4,Original 2024 script (legacy),16.0,23,72.7798591966736,68.4,correct
+4,Original 2024 script (legacy),7.0,7,61.35017720779983,61.2,correct
+4,Original 2024 script (legacy),11.0,8,77.37690428171922,75.60000000000001,correct
+4,Original 2024 script (legacy),17.0,14,110.95844887665457,111.60000000000001,correct
+4,Original 2024 script (legacy),4.0,27,88.26198840483585,86.4,correct
+4,Original 2024 script (legacy),20.0,39,124.37024799344422,118.8,wrong
+4,Original 2024 script (legacy),8.0,28,95.75340638670346,90.0,wrong
+4,Original 2024 script (legacy),5.0,46,66.64935981881939,64.8,correct
+4,Original 2024 script (legacy),14.0,21,71.48971544906841,68.4,correct
+4,No correction (constant scale),18.0,1,133.01110677624757,199.37481139038817,wrong
+4,No correction (constant scale),15.0,2,104.92814925794411,123.20719143575752,wrong
+4,No correction (constant scale),21.0,30,82.86577181095765,56.42062020190533,wrong
+4,No correction (constant scale),1.0,3,108.1198686098686,216.35409844731524,wrong
+4,No correction (constant scale),2.0,16,109.75068742371063,77.45740830601557,wrong
+4,No correction (constant scale),10.0,4,93.30815939350015,86.26888157577152,wrong
+4,No correction (constant scale),24.0,47,110.95731176984853,56.04253292838326,wrong
+4,No correction (constant scale),13.0,33,103.66351860183654,58.07752419246417,wrong
+4,No correction (constant scale),23.0,13,67.68443255098754,39.296315345216335,wrong
+4,No correction (constant scale),12.0,40,85.14557029630822,45.326360293183406,wrong
+4,No correction (constant scale),19.0,35,93.38408545685334,48.428025866239,wrong
+4,No correction (constant scale),6.0,5,77.37186059348225,71.65483305407393,wrong
+4,No correction (constant scale),9.0,6,97.30425577625321,67.18684877025267,wrong
+4,No correction (constant scale),22.0,51,83.2334361295139,55.190440585185186,wrong
+4,No correction (constant scale),3.0,43,100.99058507865283,48.88839293300265,wrong
+4,No correction (constant scale),16.0,23,72.7798591966736,39.16902352764731,wrong
+4,No correction (constant scale),7.0,7,61.35017720779983,37.17454179594873,wrong
+4,No correction (constant scale),11.0,8,77.37690428171922,57.47433162928064,wrong
+4,No correction (constant scale),17.0,14,110.95844887665457,76.69183976783617,wrong
+4,No correction (constant scale),4.0,27,88.26198840483585,82.28996007739917,wrong
+4,No correction (constant scale),20.0,39,124.37024799344422,120.69568349849017,correct
+4,No correction (constant scale),8.0,28,95.75340638670346,90.98931260784204,correct
+4,No correction (constant scale),5.0,46,66.64935981881939,130.25185590640908,wrong
+4,No correction (constant scale),14.0,21,71.48971544906841,72.30539925696594,correct
+5,Perspective corrected (net displacement),18.0,1,92.40228766469217,91.75467028603987,correct
+5,Perspective corrected (net displacement),20.0,47,97.54788712102379,97.45872820015867,correct
+5,Perspective corrected (net displacement),15.0,33,49.2724937906631,47.559991794232346,correct
+5,Perspective corrected (net displacement),24.0,15,78.95468454499587,78.1119953403498,correct
+5,Perspective corrected (net displacement),7.0,26,116.91630962388712,115.91153302212037,correct
+5,Perspective corrected (net displacement),14.0,36,123.56731112899739,123.14195315518526,correct
+5,Perspective corrected (net displacement),17.0,4,67.24247827143708,67.02189644942757,correct
+5,Perspective corrected (net displacement),2.0,3,128.6504391267127,125.92018332924425,correct
+5,Perspective corrected (net displacement),3.0,12,134.20133606978612,133.62619689432955,correct
+5,Perspective corrected (net displacement),16.0,23,99.92028251267968,100.0722160825217,correct
+5,Perspective corrected (net displacement),21.0,39,92.47492866282278,91.67574626052073,correct
+5,Perspective corrected (net displacement),4.0,46,65.14845567388919,64.46226422848443,correct
+5,Perspective corrected (net displacement),1.0,5,75.1456307631809,75.56407181883148,correct
+5,Perspective corrected (net displacement),6.0,16,81.00661713177605,78.77130643837634,correct
+5,Perspective corrected (net displacement),22.0,6,59.16496187639511,59.38314777025944,correct
+5,Perspective corrected (net displacement),19.0,7,92.38885282775955,87.53680445890998,correct
+5,Perspective corrected (net displacement),13.0,25,71.63547595581231,71.4782080729365,correct
+5,Perspective corrected (net displacement),8.0,20,135.4493341217103,135.50945525083668,correct
+5,Perspective corrected (net displacement),9.0,31,95.91707052585716,96.29072590005461,correct
+5,Perspective corrected (net displacement),12.0,43,66.53668099534721,66.78393091839828,correct
+5,Perspective corrected (net displacement),10.0,18,68.19708651801432,68.41681608211633,correct
+5,Perspective corrected (net displacement),5.0,8,122.30720736176578,121.60027929443206,correct
+5,Perspective corrected (net displacement),11.0,9,65.45625455666672,64.82095211215807,correct
+5,Perspective corrected (net displacement),23.0,10,127.3026673310941,124.22979952314904,correct
+5,"Perspective corrected (path length, literal)",18.0,1,92.40228766469217,116.14288076195115,wrong
+5,"Perspective corrected (path length, literal)",20.0,47,97.54788712102379,174.64346556276885,wrong
+5,"Perspective corrected (path length, literal)",15.0,33,49.2724937906631,434.7334492788854,wrong
+5,"Perspective corrected (path length, literal)",24.0,15,78.95468454499587,333.5405358945738,wrong
+5,"Perspective corrected (path length, literal)",7.0,26,116.91630962388712,153.39886543758882,wrong
+5,"Perspective corrected (path length, literal)",14.0,36,123.56731112899739,171.34928850942362,wrong
+5,"Perspective corrected (path length, literal)",17.0,4,67.24247827143708,139.1953818912108,wrong
+5,"Perspective corrected (path length, literal)",2.0,3,128.6504391267127,130.00048225140932,correct
+5,"Perspective corrected (path length, literal)",3.0,12,134.20133606978612,172.8988232994648,wrong
+5,"Perspective corrected (path length, literal)",16.0,23,99.92028251267968,154.82755472284188,wrong
+5,"Perspective corrected (path length, literal)",21.0,39,92.47492866282278,147.33278152075775,wrong
+5,"Perspective corrected (path length, literal)",4.0,46,65.14845567388919,168.13174720813336,wrong
+5,"Perspective corrected (path length, literal)",1.0,5,75.1456307631809,132.60403406924158,wrong
+5,"Perspective corrected (path length, literal)",6.0,16,81.00661713177605,309.28830613453454,wrong
+5,"Perspective corrected (path length, literal)",22.0,6,59.16496187639511,323.36770163446806,wrong
+5,"Perspective corrected (path length, literal)",19.0,7,92.38885282775955,232.6529843027979,wrong
+5,"Perspective corrected (path length, literal)",13.0,25,71.63547595581231,134.57145112926867,wrong
+5,"Perspective corrected (path length, literal)",8.0,20,135.4493341217103,155.28942703486763,wrong
+5,"Perspective corrected (path length, literal)",9.0,31,95.91707052585716,153.97693946048958,wrong
+5,"Perspective corrected (path length, literal)",12.0,43,66.53668099534721,124.0422252235815,wrong
+5,"Perspective corrected (path length, literal)",10.0,18,68.19708651801432,137.7984091151735,wrong
+5,"Perspective corrected (path length, literal)",5.0,8,122.30720736176578,168.33018233865573,wrong
+5,"Perspective corrected (path length, literal)",11.0,9,65.45625455666672,139.49292968916245,wrong
+5,"Perspective corrected (path length, literal)",23.0,10,127.3026673310941,177.28147572647777,wrong
+5,Original 2024 script (legacy),18.0,1,92.40228766469217,88.19999999999999,correct
+5,Original 2024 script (legacy),20.0,47,97.54788712102379,93.60000000000001,correct
+5,Original 2024 script (legacy),15.0,33,49.2724937906631,46.800000000000004,correct
+5,Original 2024 script (legacy),24.0,15,78.95468454499587,75.60000000000001,correct
+5,Original 2024 script (legacy),7.0,26,116.91630962388712,115.2,correct
+5,Original 2024 script (legacy),14.0,36,123.56731112899739,118.8,correct
+5,Original 2024 script (legacy),17.0,4,67.24247827143708,64.8,correct
+5,Original 2024 script (legacy),2.0,3,128.6504391267127,118.71818181818182,wrong
+5,Original 2024 script (legacy),3.0,12,134.20133606978612,126.52941176470588,wrong
+5,Original 2024 script (legacy),16.0,23,99.92028251267968,97.2,correct
+5,Original 2024 script (legacy),21.0,39,92.47492866282278,90.0,correct
+5,Original 2024 script (legacy),4.0,46,65.14845567388919,61.2,correct
+5,Original 2024 script (legacy),1.0,5,75.1456307631809,72.0,correct
+5,Original 2024 script (legacy),6.0,16,81.00661713177605,75.60000000000001,wrong
+5,Original 2024 script (legacy),22.0,6,59.16496187639511,61.2,correct
+5,Original 2024 script (legacy),19.0,7,92.38885282775955,90.0,correct
+5,Original 2024 script (legacy),13.0,25,71.63547595581231,72.0,correct
+5,Original 2024 script (legacy),8.0,20,135.4493341217103,133.20000000000002,correct
+5,Original 2024 script (legacy),9.0,31,95.91707052585716,93.60000000000001,correct
+5,Original 2024 script (legacy),12.0,43,66.53668099534721,64.8,correct
+5,Original 2024 script (legacy),10.0,18,68.19708651801432,68.4,correct
+5,Original 2024 script (legacy),5.0,8,122.30720736176578,118.8,correct
+5,Original 2024 script (legacy),11.0,9,65.45625455666672,64.8,correct
+5,Original 2024 script (legacy),23.0,10,127.3026673310941,118.8,wrong
+5,No correction (constant scale),18.0,1,92.40228766469217,170.481109595369,wrong
+5,No correction (constant scale),20.0,47,97.54788712102379,43.15532464190344,wrong
+5,No correction (constant scale),15.0,33,49.2724937906631,21.452266348862054,wrong
+5,No correction (constant scale),24.0,15,78.95468454499587,54.96261071347501,wrong
+5,No correction (constant scale),7.0,26,116.91630962388712,79.33458022931508,wrong
+5,No correction (constant scale),14.0,36,123.56731112899739,68.70329670669724,wrong
+5,No correction (constant scale),17.0,4,67.24247827143708,45.09397891425556,wrong
+5,No correction (constant scale),2.0,3,128.6504391267127,383.74276179653833,wrong
+5,No correction (constant scale),3.0,12,134.20133606978612,101.90139722129689,wrong
+5,No correction (constant scale),16.0,23,99.92028251267968,55.10237135216404,wrong
+5,No correction (constant scale),21.0,39,92.47492866282278,40.28314183286131,wrong
+5,No correction (constant scale),4.0,46,65.14845567388919,18.609308155313318,wrong
+5,No correction (constant scale),1.0,5,75.1456307631809,44.42190627413183,wrong
+5,No correction (constant scale),6.0,16,81.00661713177605,76.57153201164516,correct
+5,No correction (constant scale),22.0,6,59.16496187639511,43.87015558947222,wrong
+5,No correction (constant scale),19.0,7,92.38885282775955,68.04484410574433,wrong
+5,No correction (constant scale),13.0,25,71.63547595581231,63.0572029436527,wrong
+5,No correction (constant scale),8.0,20,135.4493341217103,132.21573351676892,correct
+5,No correction (constant scale),9.0,31,95.91707052585716,98.05244235335763,correct
+5,No correction (constant scale),12.0,43,66.53668099534721,126.12803983488372,wrong
+5,No correction (constant scale),10.0,18,68.19708651801432,64.9635161926884,correct
+5,No correction (constant scale),5.0,8,122.30720736176578,108.13089595264199,wrong
+5,No correction (constant scale),11.0,9,65.45625455666672,67.07873792485246,correct
+5,No correction (constant scale),23.0,10,127.3026673310941,65.7498781934139,wrong
+6,Perspective corrected (net displacement),20.0,1,80.62721514368478,80.97917692382336,correct
+6,Perspective corrected (net displacement),22.0,22,112.1609152729782,111.65347207627073,correct
+6,Perspective corrected (net displacement),12.0,20,124.73879797559853,124.599924532042,correct
+6,Perspective corrected (net displacement),21.0,2,67.31991026170235,66.91890708534741,correct
+6,Perspective corrected (net displacement),6.0,36,102.50809916475882,101.42476344954099,correct
+6,Perspective corrected (net displacement),18.0,19,106.76991865077652,106.26748701267613,correct
+6,Perspective corrected (net displacement),16.0,15,121.59147529868251,120.73001075421833,correct
+6,Perspective corrected (net displacement),10.0,12,72.92173524383797,81.33939622779786,wrong
+6,Perspective corrected (net displacement),19.0,53,90.05431614561962,89.65048716224325,correct
+6,Perspective corrected (net displacement),4.0,59,118.97201780966269,118.4819201505609,correct
+6,Perspective corrected (net displacement),8.0,35,102.38495861997379,102.22899810087159,correct
+6,Perspective corrected (net displacement),15.0,32,138.58718502917318,138.342649044896,correct
+6,Perspective corrected (net displacement),17.0,3,76.98844011788684,77.76571229411744,correct
+6,Perspective corrected (net displacement),23.0,8,69.27967675796238,69.00879913098713,correct
+6,Perspective corrected (net displacement),3.0,45,69.36319067800531,68.10903439827143,correct
+6,Perspective corrected (net displacement),5.0,24,117.78618485758368,116.89181096503366,correct
+6,Perspective corrected (net displacement),14.0,17,97.18581035773566,96.36792862454766,correct
+6,Perspective corrected (net displacement),9.0,4,137.07114050256243,136.20392225288552,correct
+6,Perspective corrected (net displacement),11.0,48,126.12979120983954,126.21573722239764,correct
+6,Perspective corrected (net displacement),7.0,25,119.53174630666155,118.68075950782156,correct
+6,Perspective corrected (net displacement),13.0,42,96.45156746968392,96.51879030658935,correct
+6,Perspective corrected (net displacement),2.0,11,138.78427801900443,139.01287237389118,correct
+6,Perspective corrected (net displacement),24.0,5,128.40914432922037,127.15575453376391,correct
+6,Perspective corrected (net displacement),1.0,7,124.88187190274738,124.42804721062956,correct
+6,"Perspective corrected (path length, literal)",20.0,1,80.62721514368478,116.85219768816961,wrong
+6,"Perspective corrected (path length, literal)",22.0,22,112.1609152729782,152.26735808744564,wrong
+6,"Perspective corrected (path length, literal)",12.0,20,124.73879797559853,168.6103656042058,wrong
+6,"Perspective corrected (path length, literal)",21.0,2,67.31991026170235,110.83595100680161,wrong
+6,"Perspective corrected (path length, literal)",6.0,36,102.50809916475882,256.1058720933678,wrong
+6,"Perspective corrected (path length, literal)",18.0,19,106.76991865077652,189.83116025467257,wrong
+6,"Perspective corrected (path length, literal)",16.0,15,121.59147529868251,150.28094168255672,wrong
+6,"Perspective corrected (path length, literal)",10.0,12,72.92173524383797,145.05282258938445,wrong
+6,"Perspective corrected (path length, literal)",19.0,53,90.05431614561962,322.10907591567843,wrong
+6,"Perspective corrected (path length, literal)",4.0,59,118.97201780966269,157.36528470198024,wrong
+6,"Perspective corrected (path length, literal)",8.0,35,102.38495861997379,133.0205247486255,wrong
+6,"Perspective corrected (path length, literal)",15.0,32,138.58718502917318,162.2450900716529,wrong
+6,"Perspective corrected (path length, literal)",17.0,3,76.98844011788684,282.89458461022053,wrong
+6,"Perspective corrected (path length, literal)",23.0,8,69.27967675796238,124.31622259014944,wrong
+6,"Perspective corrected (path length, literal)",3.0,45,69.36319067800531,120.80455281993706,wrong
+6,"Perspective corrected (path length, literal)",5.0,24,117.78618485758368,149.30384373147257,wrong
+6,"Perspective corrected (path length, literal)",14.0,17,97.18581035773566,158.61280156535912,wrong
+6,"Perspective corrected (path length, literal)",9.0,4,137.07114050256243,186.3905074678839,wrong
+6,"Perspective corrected (path length, literal)",11.0,48,126.12979120983954,160.77409199701324,wrong
+6,"Perspective corrected (path length, literal)",7.0,25,119.53174630666155,148.63012189058384,wrong
+6,"Perspective corrected (path length, literal)",13.0,42,96.45156746968392,154.1328618447394,wrong
+6,"Perspective corrected (path length, literal)",2.0,11,138.78427801900443,178.33884558143242,wrong
+6,"Perspective corrected (path length, literal)",24.0,5,128.40914432922037,173.9623996133036,wrong
+6,"Perspective corrected (path length, literal)",1.0,7,124.88187190274738,144.0363628863915,wrong
+6,Original 2024 script (legacy),20.0,1,80.62721514368478,79.2,correct
+6,Original 2024 script (legacy),22.0,22,112.1609152729782,108.0,correct
+6,Original 2024 script (legacy),12.0,20,124.73879797559853,122.4,correct
+6,Original 2024 script (legacy),21.0,2,67.31991026170235,64.8,correct
+6,Original 2024 script (legacy),6.0,36,102.50809916475882,97.2,wrong
+6,Original 2024 script (legacy),18.0,19,106.76991865077652,108.0,correct
+6,Original 2024 script (legacy),16.0,15,121.59147529868251,118.8,correct
+6,Original 2024 script (legacy),10.0,12,72.92173524383797,86.4,wrong
+6,Original 2024 script (legacy),19.0,53,90.05431614561962,86.4,correct
+6,Original 2024 script (legacy),4.0,59,118.97201780966269,115.2,correct
+6,Original 2024 script (legacy),8.0,35,102.38495861997379,97.2,wrong
+6,Original 2024 script (legacy),15.0,32,138.58718502917318,133.20000000000002,wrong
+6,Original 2024 script (legacy),17.0,3,76.98844011788684,75.60000000000001,correct
+6,Original 2024 script (legacy),23.0,8,69.27967675796238,68.4,correct
+6,Original 2024 script (legacy),3.0,45,69.36319067800531,68.4,correct
+6,Original 2024 script (legacy),5.0,24,117.78618485758368,115.2,correct
+6,Original 2024 script (legacy),14.0,17,97.18581035773566,93.60000000000001,correct
+6,Original 2024 script (legacy),9.0,4,137.07114050256243,129.6,wrong
+6,Original 2024 script (legacy),11.0,48,126.12979120983954,123.075,correct
+6,Original 2024 script (legacy),7.0,25,119.53174630666155,115.2,correct
+6,Original 2024 script (legacy),13.0,42,96.45156746968392,93.60000000000001,correct
+6,Original 2024 script (legacy),2.0,11,138.78427801900443,136.8,correct
+6,Original 2024 script (legacy),24.0,5,128.40914432922037,122.4,wrong
+6,Original 2024 script (legacy),1.0,7,124.88187190274738,122.4,correct
+6,No correction (constant scale),20.0,1,80.62721514368478,114.35716743203878,wrong
+6,No correction (constant scale),22.0,22,112.1609152729782,74.3117521695272,wrong
+6,No correction (constant scale),12.0,20,124.73879797559853,86.45094212748475,wrong
+6,No correction (constant scale),21.0,2,67.31991026170235,83.51990116366375,wrong
+6,No correction (constant scale),6.0,36,102.50809916475882,67.22773825318077,wrong
+6,No correction (constant scale),18.0,19,106.76991865077652,27.671311287306814,wrong
+6,No correction (constant scale),16.0,15,121.59147529868251,67.64106807591887,wrong
+6,No correction (constant scale),10.0,12,72.92173524383797,30.49301103761147,wrong
+6,No correction (constant scale),19.0,53,90.05431614561962,33.72301758691136,wrong
+6,No correction (constant scale),4.0,59,118.97201780966269,44.42532368596031,wrong
+6,No correction (constant scale),8.0,35,102.38495861997379,75.5874512431091,wrong
+6,No correction (constant scale),15.0,32,138.58718502917318,106.76344691302808,wrong
+6,No correction (constant scale),17.0,3,76.98844011788684,56.03350775644457,wrong
+6,No correction (constant scale),23.0,8,69.27967675796238,51.17887698212917,wrong
+6,No correction (constant scale),3.0,45,69.36319067800531,98.26165015083726,wrong
+6,No correction (constant scale),5.0,24,117.78618485758368,113.53207512961053,correct
+6,No correction (constant scale),14.0,17,97.18581035773566,92.93775394979392,correct
+6,No correction (constant scale),9.0,4,137.07114050256243,58.19797705443176,wrong
+6,No correction (constant scale),11.0,48,126.12979120983954,129.69577348536072,correct
+6,No correction (constant scale),7.0,25,119.53174630666155,127.31094171838981,wrong
+6,No correction (constant scale),13.0,42,96.45156746968392,96.70404603488545,correct
+6,No correction (constant scale),2.0,11,138.78427801900443,136.64522295164167,correct
+6,No correction (constant scale),24.0,5,128.40914432922037,109.46937170492268,wrong
+6,No correction (constant scale),1.0,7,124.88187190274738,119.26202728494869,wrong
+7,Perspective corrected (net displacement),11.0,19,96.2923043577644,96.10927601223347,correct
+7,Perspective corrected (net displacement),1.0,40,116.2191444465644,116.65359477227405,correct
+7,Perspective corrected (net displacement),14.0,1,59.509214026182704,58.29375038007187,correct
+7,Perspective corrected (net displacement),23.0,2,92.28559109634233,91.50090245028747,correct
+7,Perspective corrected (net displacement),15.0,15,76.53978228528197,73.39971021347759,correct
+7,Perspective corrected (net displacement),8.0,37,49.488399462308486,48.27123492933929,correct
+7,Perspective corrected (net displacement),13.0,12,122.96458909700497,122.11978049604733,correct
+7,Perspective corrected (net displacement),17.0,34,66.07127874362875,65.05866418953869,correct
+7,Perspective corrected (net displacement),10.0,3,72.12741077299545,71.34985347843171,correct
+7,Perspective corrected (net displacement),22.0,4,133.55744861862232,147.53819263275756,wrong
+7,Perspective corrected (net displacement),24.0,13,77.65978453695286,77.17019624012715,correct
+7,Perspective corrected (net displacement),16.0,5,99.69966314755206,98.46480539863646,correct
+7,Perspective corrected (net displacement),4.0,7,113.46325966405858,109.23554015968801,correct
+7,Perspective corrected (net displacement),20.0,11,71.5163275138777,69.44220916857263,correct
+7,Perspective corrected (net displacement),19.0,33,79.28457584711367,78.93374695850841,correct
+7,Perspective corrected (net displacement),12.0,28,91.47956354861444,90.89912180188476,correct
+7,Perspective corrected (net displacement),2.0,46,105.79671505461177,104.63088194471997,correct
+7,Perspective corrected (net displacement),7.0,25,114.88172957201938,114.38177051789992,correct
+7,Perspective corrected (net displacement),5.0,36,138.19445827611094,138.05062036666098,correct
+7,Perspective corrected (net displacement),21.0,17,75.52013128086712,75.73779990514484,correct
+7,Perspective corrected (net displacement),3.0,47,84.01165085083133,82.91504146410094,correct
+7,Perspective corrected (net displacement),9.0,43,139.83793262231924,139.82125027232232,correct
+7,Perspective corrected (net displacement),18.0,8,99.40390524194771,101.27430583273787,correct
+7,Perspective corrected (net displacement),6.0,9,118.58496225349123,119.42740915794148,correct
+7,"Perspective corrected (path length, literal)",11.0,19,96.2923043577644,150.73421307173277,wrong
+7,"Perspective corrected (path length, literal)",1.0,40,116.2191444465644,157.11127676307058,wrong
+7,"Perspective corrected (path length, literal)",14.0,1,59.509214026182704,252.4361715824474,wrong
+7,"Perspective corrected (path length, literal)",23.0,2,92.28559109634233,118.46236248387521,wrong
+7,"Perspective corrected (path length, literal)",15.0,15,76.53978228528197,238.53758990660288,wrong
+7,"Perspective corrected (path length, literal)",8.0,37,49.488399462308486,366.13163910187984,wrong
+7,"Perspective corrected (path length, literal)",13.0,12,122.96458909700497,176.4965917649241,wrong
+7,"Perspective corrected (path length, literal)",17.0,34,66.07127874362875,155.76003727428082,wrong
+7,"Perspective corrected (path length, literal)",10.0,3,72.12741077299545,111.03135458731005,wrong
+7,"Perspective corrected (path length, literal)",22.0,4,133.55744861862232,218.32879131316372,wrong
+7,"Perspective corrected (path length, literal)",24.0,13,77.65978453695286,181.79697839936958,wrong
+7,"Perspective corrected (path length, literal)",16.0,5,99.69966314755206,178.4257047239858,wrong
+7,"Perspective corrected (path length, literal)",4.0,7,113.46325966405858,174.56170986298844,wrong
+7,"Perspective corrected (path length, literal)",20.0,11,71.5163275138777,269.6527382309063,wrong
+7,"Perspective corrected (path length, literal)",19.0,33,79.28457584711367,120.65265041936578,wrong
+7,"Perspective corrected (path length, literal)",12.0,28,91.47956354861444,157.44811200851413,wrong
+7,"Perspective corrected (path length, literal)",2.0,46,105.79671505461177,164.6085798181976,wrong
+7,"Perspective corrected (path length, literal)",7.0,25,114.88172957201938,146.8865338358243,wrong
+7,"Perspective corrected (path length, literal)",5.0,36,138.19445827611094,174.71155196929385,wrong
+7,"Perspective corrected (path length, literal)",21.0,17,75.52013128086712,136.6068661098924,wrong
+7,"Perspective corrected (path length, literal)",3.0,47,84.01165085083133,245.42079365263564,wrong
+7,"Perspective corrected (path length, literal)",9.0,43,139.83793262231924,161.3233336508007,wrong
+7,"Perspective corrected (path length, literal)",18.0,8,99.40390524194771,299.74545302717206,wrong
+7,"Perspective corrected (path length, literal)",6.0,9,118.58496225349123,168.90589854810247,wrong
+7,Original 2024 script (legacy),11.0,19,96.2923043577644,93.60000000000001,correct
+7,Original 2024 script (legacy),1.0,40,116.2191444465644,111.60000000000001,correct
+7,Original 2024 script (legacy),14.0,1,59.509214026182704,57.6,correct
+7,Original 2024 script (legacy),23.0,2,92.28559109634233,90.0,correct
+7,Original 2024 script (legacy),15.0,15,76.53978228528197,72.0,correct
+7,Original 2024 script (legacy),8.0,37,49.488399462308486,50.4,correct
+7,Original 2024 script (legacy),13.0,12,122.96458909700497,118.8,correct
+7,Original 2024 script (legacy),17.0,34,66.07127874362875,64.8,correct
+7,Original 2024 script (legacy),10.0,3,72.12741077299545,68.4,correct
+7,Original 2024 script (legacy),22.0,4,133.55744861862232,142.30263157894737,wrong
+7,Original 2024 script (legacy),24.0,13,77.65978453695286,76.05000000000001,correct
+7,Original 2024 script (legacy),16.0,5,99.69966314755206,100.8,correct
+7,Original 2024 script (legacy),4.0,7,113.46325966405858,108.0,wrong
+7,Original 2024 script (legacy),20.0,11,71.5163275138777,68.4,correct
+7,Original 2024 script (legacy),19.0,33,79.28457584711367,75.60000000000001,correct
+7,Original 2024 script (legacy),12.0,28,91.47956354861444,90.0,correct
+7,Original 2024 script (legacy),2.0,46,105.79671505461177,103.5,correct
+7,Original 2024 script (legacy),7.0,25,114.88172957201938,111.60000000000001,correct
+7,Original 2024 script (legacy),5.0,36,138.19445827611094,136.8,correct
+7,Original 2024 script (legacy),21.0,17,75.52013128086712,72.0,correct
+7,Original 2024 script (legacy),3.0,47,84.01165085083133,82.8,correct
+7,Original 2024 script (legacy),9.0,43,139.83793262231924,136.8,correct
+7,Original 2024 script (legacy),18.0,8,99.40390524194771,100.8,correct
+7,Original 2024 script (legacy),6.0,9,118.58496225349123,115.2,correct
+7,No correction (constant scale),11.0,19,96.2923043577644,66.33170965190948,wrong
+7,No correction (constant scale),1.0,40,116.2191444465644,81.13263615002714,wrong
+7,No correction (constant scale),14.0,1,59.509214026182704,65.45772200869953,wrong
+7,No correction (constant scale),23.0,2,92.28559109634233,111.30903186684915,wrong
+7,No correction (constant scale),15.0,15,76.53978228528197,51.20258970115978,wrong
+7,No correction (constant scale),8.0,37,49.488399462308486,16.099520368825907,wrong
+7,No correction (constant scale),13.0,12,122.96458909700497,70.70139875759673,wrong
+7,No correction (constant scale),17.0,34,66.07127874362875,26.171771234278868,wrong
+7,No correction (constant scale),10.0,3,72.12741077299545,67.50680397538972,correct
+7,No correction (constant scale),22.0,4,133.55744861862232,40.74165251955738,wrong
+7,No correction (constant scale),24.0,13,77.65978453695286,25.94831684620003,wrong
+7,No correction (constant scale),16.0,5,99.69966314755206,38.19889006000763,wrong
+7,No correction (constant scale),4.0,7,113.46325966405858,39.16198692180873,wrong
+7,No correction (constant scale),20.0,11,71.5163275138777,56.406638474415864,wrong
+7,No correction (constant scale),19.0,33,79.28457584711367,81.04812577114905,correct
+7,No correction (constant scale),12.0,28,91.47956354861444,84.88012482951892,wrong
+7,No correction (constant scale),2.0,46,105.79671505461177,53.657309010888625,wrong
+7,No correction (constant scale),7.0,25,114.88172957201938,111.45315593391096,correct
+7,No correction (constant scale),5.0,36,138.19445827611094,139.1042806658968,correct
+7,No correction (constant scale),21.0,17,75.52013128086712,74.38115969902555,correct
+7,No correction (constant scale),3.0,47,84.01165085083133,175.95063762682062,wrong
+7,No correction (constant scale),9.0,43,139.83793262231924,154.76618307275817,wrong
+7,No correction (constant scale),18.0,8,99.40390524194771,80.41338419322483,wrong
+7,No correction (constant scale),6.0,9,118.58496225349123,104.56191890966393,wrong
+8,Perspective corrected (net displacement),24.0,16,65.4479470780158,65.52521437276805,correct
+8,Perspective corrected (net displacement),17.0,30,61.34655232201027,60.706313958636,correct
+8,Perspective corrected (net displacement),21.0,45,94.50305185331464,94.06909885360189,correct
+8,Perspective corrected (net displacement),5.0,4,66.02763477316421,66.0642610290002,correct
+8,Perspective corrected (net displacement),22.0,47,82.9473507649696,82.73184461248968,correct
+8,Perspective corrected (net displacement),12.0,18,109.32678926987757,108.73370426318812,correct
+8,Perspective corrected (net displacement),19.0,49,136.52917679798125,137.25378348264607,correct
+8,Perspective corrected (net displacement),23.0,53,86.65330610783516,86.35351880894794,correct
+8,Perspective corrected (net displacement),6.0,19,65.57213990004453,62.70903396196482,correct
+8,Perspective corrected (net displacement),8.0,9,128.35104864996757,127.63977188336159,correct
+8,Perspective corrected (net displacement),20.0,15,101.87419708552758,99.523016466692,correct
+8,Perspective corrected (net displacement),16.0,6,107.52031684114695,107.42446627998937,correct
+8,Perspective corrected (net displacement),11.0,11,84.50839401671388,84.86615320978267,correct
+8,Perspective corrected (net displacement),18.0,41,83.49391683844915,83.39515105450369,correct
+8,Perspective corrected (net displacement),15.0,1,119.52863532566514,117.47038997486314,correct
+8,Perspective corrected (net displacement),7.0,8,91.37991013248558,88.18014139823481,correct
+8,Perspective corrected (net displacement),14.0,29,76.77349654860764,76.1762220935537,correct
+8,Perspective corrected (net displacement),9.0,2,96.5977771117341,96.14215836310582,correct
+8,Perspective corrected (net displacement),10.0,54,72.89729541506419,71.50937115822542,correct
+8,Perspective corrected (net displacement),2.0,36,138.07503099121402,136.69906797520952,correct
+8,Perspective corrected (net displacement),13.0,31,126.6460258125959,127.3462634965377,correct
+8,Perspective corrected (net displacement),1.0,3,87.55254062342854,88.25419724508998,correct
+8,Perspective corrected (net displacement),4.0,43,121.1381586719348,121.2001165984489,correct
+8,Perspective corrected (net displacement),3.0,25,78.53921023070512,78.31046171126407,correct
+8,"Perspective corrected (path length, literal)",24.0,16,65.4479470780158,129.72177483690555,wrong
+8,"Perspective corrected (path length, literal)",17.0,30,61.34655232201027,135.02460658139626,wrong
+8,"Perspective corrected (path length, literal)",21.0,45,94.50305185331464,177.69263601049573,wrong
+8,"Perspective corrected (path length, literal)",5.0,4,66.02763477316421,120.2825151265032,wrong
+8,"Perspective corrected (path length, literal)",22.0,47,82.9473507649696,182.67402888325205,wrong
+8,"Perspective corrected (path length, literal)",12.0,18,109.32678926987757,167.05330302267245,wrong
+8,"Perspective corrected (path length, literal)",19.0,49,136.52917679798125,161.60455544455974,wrong
+8,"Perspective corrected (path length, literal)",23.0,53,86.65330610783516,167.64026629073516,wrong
+8,"Perspective corrected (path length, literal)",6.0,19,65.57213990004453,276.07988539028025,wrong
+8,"Perspective corrected (path length, literal)",8.0,9,128.35104864996757,157.93850160145382,wrong
+8,"Perspective corrected (path length, literal)",20.0,15,101.87419708552758,251.0762033789134,wrong
+8,"Perspective corrected (path length, literal)",16.0,6,107.52031684114695,161.20600875229266,wrong
+8,"Perspective corrected (path length, literal)",11.0,11,84.50839401671388,133.2808531347559,wrong
+8,"Perspective corrected (path length, literal)",18.0,41,83.49391683844915,139.12984709965963,wrong
+8,"Perspective corrected (path length, literal)",15.0,1,119.52863532566514,211.84270669896875,wrong
+8,"Perspective corrected (path length, literal)",7.0,8,91.37991013248558,302.6413822530059,wrong
+8,"Perspective corrected (path length, literal)",14.0,29,76.77349654860764,135.39944375313397,wrong
+8,"Perspective corrected (path length, literal)",9.0,2,96.5977771117341,138.57103289032239,wrong
+8,"Perspective corrected (path length, literal)",10.0,54,72.89729541506419,197.51616716037023,wrong
+8,"Perspective corrected (path length, literal)",2.0,36,138.07503099121402,163.38190228111284,wrong
+8,"Perspective corrected (path length, literal)",13.0,31,126.6460258125959,144.06612323986772,wrong
+8,"Perspective corrected (path length, literal)",1.0,3,87.55254062342854,170.3230834966096,wrong
+8,"Perspective corrected (path length, literal)",4.0,43,121.1381586719348,177.87894842183226,wrong
+8,"Perspective corrected (path length, literal)",3.0,25,78.53921023070512,141.65810939132464,wrong
+8,Original 2024 script (legacy),24.0,16,65.4479470780158,64.8,correct
+8,Original 2024 script (legacy),17.0,30,61.34655232201027,61.2,correct
+8,Original 2024 script (legacy),21.0,45,94.50305185331464,93.60000000000001,correct
+8,Original 2024 script (legacy),5.0,4,66.02763477316421,64.8,correct
+8,Original 2024 script (legacy),22.0,47,82.9473507649696,79.2,correct
+8,Original 2024 script (legacy),12.0,18,109.32678926987757,104.4,correct
+8,Original 2024 script (legacy),19.0,49,136.52917679798125,133.20000000000002,correct
+8,Original 2024 script (legacy),23.0,53,86.65330610783516,86.4,correct
+8,Original 2024 script (legacy),6.0,19,65.57213990004453,61.2,correct
+8,Original 2024 script (legacy),8.0,9,128.35104864996757,122.4,wrong
+8,Original 2024 script (legacy),20.0,15,101.87419708552758,97.2,correct
+8,Original 2024 script (legacy),16.0,6,107.52031684114695,104.4,correct
+8,Original 2024 script (legacy),11.0,11,84.50839401671388,82.8,correct
+8,Original 2024 script (legacy),18.0,41,83.49391683844915,82.8,correct
+8,Original 2024 script (legacy),15.0,1,119.52863532566514,115.2,correct
+8,Original 2024 script (legacy),7.0,8,91.37991013248558,86.4,correct
+8,Original 2024 script (legacy),14.0,29,76.77349654860764,75.60000000000001,correct
+8,Original 2024 script (legacy),9.0,2,96.5977771117341,93.60000000000001,correct
+8,Original 2024 script (legacy),10.0,54,72.89729541506419,72.0,correct
+8,Original 2024 script (legacy),2.0,36,138.07503099121402,133.20000000000002,correct
+8,Original 2024 script (legacy),13.0,31,126.6460258125959,122.4,correct
+8,Original 2024 script (legacy),1.0,3,87.55254062342854,86.4,correct
+8,Original 2024 script (legacy),4.0,43,121.1381586719348,118.8,correct
+8,Original 2024 script (legacy),3.0,25,78.53921023070512,79.2,correct
+8,No correction (constant scale),24.0,16,65.4479470780158,47.89610012471551,wrong
+8,No correction (constant scale),17.0,30,61.34655232201027,34.79852295178428,wrong
+8,No correction (constant scale),21.0,45,94.50305185331464,37.66061095606781,wrong
+8,No correction (constant scale),5.0,4,66.02763477316421,47.49313943840628,wrong
+8,No correction (constant scale),22.0,47,82.9473507649696,38.69790759254907,wrong
+8,No correction (constant scale),12.0,18,109.32678926987757,63.50069629848895,wrong
+8,No correction (constant scale),19.0,49,136.52917679798125,78.60262774389847,wrong
+8,No correction (constant scale),23.0,53,86.65330610783516,31.226365919513803,wrong
+8,No correction (constant scale),6.0,19,65.57213990004453,42.63658048689922,wrong
+8,No correction (constant scale),8.0,9,128.35104864996757,66.42585929108766,wrong
+8,No correction (constant scale),20.0,15,101.87419708552758,58.90034614950787,wrong
+8,No correction (constant scale),16.0,6,107.52031684114695,56.67503365339821,wrong
+8,No correction (constant scale),11.0,11,84.50839401671388,58.69076506722737,wrong
+8,No correction (constant scale),18.0,41,83.49391683844915,62.24100030528623,wrong
+8,No correction (constant scale),15.0,1,119.52863532566514,39.51616570690823,wrong
+8,No correction (constant scale),7.0,8,91.37991013248558,74.61988024815537,wrong
+8,No correction (constant scale),14.0,29,76.77349654860764,75.53057323075673,correct
+8,No correction (constant scale),9.0,2,96.5977771117341,72.62593946689552,wrong
+8,No correction (constant scale),10.0,54,72.89729541506419,180.28162950045834,wrong
+8,No correction (constant scale),2.0,36,138.07503099121402,135.846876786709,correct
+8,No correction (constant scale),13.0,31,126.6460258125959,118.5895747347352,wrong
+8,No correction (constant scale),1.0,3,87.55254062342854,56.85416615358508,wrong
+8,No correction (constant scale),4.0,43,121.1381586719348,133.52833081997656,wrong
+8,No correction (constant scale),3.0,25,78.53921023070512,80.75678065425173,correct
+9,Perspective corrected (net displacement),24.0,5,71.82276478945408,70.36652393804803,correct
+9,Perspective corrected (net displacement),8.0,11,113.33142837916685,113.3967808644196,correct
+9,Perspective corrected (net displacement),15.0,28,82.2982695357907,82.06888157980927,correct
+9,Perspective corrected (net displacement),13.0,45,103.01636409779121,102.35421712173121,correct
+9,Perspective corrected (net displacement),6.0,12,109.69352065995665,110.33113419824731,correct
+9,Perspective corrected (net displacement),12.0,10,139.35842187255113,139.84842981383156,correct
+9,Perspective corrected (net displacement),7.0,1,90.96409711672496,91.90660439294294,correct
+9,Perspective corrected (net displacement),17.0,19,82.92438750727021,78.50613939561342,correct
+9,Perspective corrected (net displacement),9.0,23,109.14526575853813,108.91580820702706,correct
+9,Perspective corrected (net displacement),23.0,2,89.1657335067302,85.38568038123614,correct
+9,Perspective corrected (net displacement),10.0,31,88.2154542250457,88.43413989167247,correct
+9,Perspective corrected (net displacement),20.0,30,82.54083916550445,81.51667439486593,correct
+9,Perspective corrected (net displacement),3.0,15,73.08705298577895,72.79253359196096,correct
+9,Perspective corrected (net displacement),2.0,3,93.14525777195425,94.57969224617786,correct
+9,Perspective corrected (net displacement),19.0,21,116.33467214095378,114.68125478997814,correct
+9,Perspective corrected (net displacement),21.0,33,81.25565409741172,79.10425615927534,correct
+9,Perspective corrected (net displacement),16.0,27,86.10616227969508,85.91770312833371,correct
+9,Perspective corrected (net displacement),1.0,8,67.52590603692197,67.23103290535198,correct
+9,Perspective corrected (net displacement),14.0,7,119.73794678612242,118.6772555873315,correct
+9,Perspective corrected (net displacement),22.0,14,98.05520891930416,98.09492267156574,correct
+9,Perspective corrected (net displacement),5.0,40,113.91808427011689,113.46289335837827,correct
+9,Perspective corrected (net displacement),4.0,18,71.09820406406061,71.14005357555249,correct
+9,Perspective corrected (net displacement),18.0,37,88.34460542417611,89.18141068610888,correct
+9,Perspective corrected (net displacement),11.0,4,78.39498094037276,77.77337908964549,correct
+9,"Perspective corrected (path length, literal)",24.0,5,71.82276478945408,283.98315135550064,wrong
+9,"Perspective corrected (path length, literal)",8.0,11,113.33142837916685,146.2752290700011,wrong
+9,"Perspective corrected (path length, literal)",15.0,28,82.2982695357907,135.5721725950507,wrong
+9,"Perspective corrected (path length, literal)",13.0,45,103.01636409779121,137.01707139075495,wrong
+9,"Perspective corrected (path length, literal)",6.0,12,109.69352065995665,165.37742801920783,wrong
+9,"Perspective corrected (path length, literal)",12.0,10,139.35842187255113,162.74516982208632,wrong
+9,"Perspective corrected (path length, literal)",7.0,1,90.96409711672496,124.28129792787188,wrong
+9,"Perspective corrected (path length, literal)",17.0,19,82.92438750727021,298.9529511859256,wrong
+9,"Perspective corrected (path length, literal)",9.0,23,109.14526575853813,135.49008244130513,wrong
+9,"Perspective corrected (path length, literal)",23.0,2,89.1657335067302,224.4612621212931,wrong
+9,"Perspective corrected (path length, literal)",10.0,31,88.2154542250457,142.37102971698906,wrong
+9,"Perspective corrected (path length, literal)",20.0,30,82.54083916550445,137.32321125978018,wrong
+9,"Perspective corrected (path length, literal)",3.0,15,73.08705298577895,148.99214055092028,wrong
+9,"Perspective corrected (path length, literal)",2.0,3,93.14525777195425,307.51428579976925,wrong
+9,"Perspective corrected (path length, literal)",19.0,21,116.33467214095378,154.36439117461526,wrong
+9,"Perspective corrected (path length, literal)",21.0,33,81.25565409741172,252.53634890774453,wrong
+9,"Perspective corrected (path length, literal)",16.0,27,86.10616227969508,141.66100661854531,wrong
+9,"Perspective corrected (path length, literal)",1.0,8,67.52590603692197,127.8734563612313,wrong
+9,"Perspective corrected (path length, literal)",14.0,7,119.73794678612242,149.43312612549653,wrong
+9,"Perspective corrected (path length, literal)",22.0,14,98.05520891930416,137.34416000509225,wrong
+9,"Perspective corrected (path length, literal)",5.0,40,113.91808427011689,142.6454793174998,wrong
+9,"Perspective corrected (path length, literal)",4.0,18,71.09820406406061,119.17562142270191,wrong
+9,"Perspective corrected (path length, literal)",18.0,37,88.34460542417611,181.22576224025931,wrong
+9,"Perspective corrected (path length, literal)",11.0,4,78.39498094037276,142.79230376085496,wrong
+9,Original 2024 script (legacy),24.0,5,71.82276478945408,68.4,correct
+9,Original 2024 script (legacy),8.0,11,113.33142837916685,108.0,wrong
+9,Original 2024 script (legacy),15.0,28,82.2982695357907,79.2,correct
+9,Original 2024 script (legacy),13.0,45,103.01636409779121,97.2,wrong
+9,Original 2024 script (legacy),6.0,12,109.69352065995665,108.0,correct
+9,Original 2024 script (legacy),12.0,10,139.35842187255113,136.8,correct
+9,Original 2024 script (legacy),7.0,1,90.96409711672496,90.0,correct
+9,Original 2024 script (legacy),17.0,19,82.92438750727021,75.60000000000001,wrong
+9,Original 2024 script (legacy),9.0,23,109.14526575853813,104.4,correct
+9,Original 2024 script (legacy),23.0,2,89.1657335067302,82.8,wrong
+9,Original 2024 script (legacy),10.0,31,88.2154542250457,82.8,wrong
+9,Original 2024 script (legacy),20.0,30,82.54083916550445,79.2,correct
+9,Original 2024 script (legacy),3.0,15,73.08705298577895,72.0,correct
+9,Original 2024 script (legacy),2.0,3,93.14525777195425,90.0,correct
+9,Original 2024 script (legacy),19.0,21,116.33467214095378,115.2,correct
+9,Original 2024 script (legacy),21.0,33,81.25565409741172,75.60000000000001,wrong
+9,Original 2024 script (legacy),16.0,27,86.10616227969508,82.8,correct
+9,Original 2024 script (legacy),1.0,8,67.52590603692197,68.4,correct
+9,Original 2024 script (legacy),14.0,7,119.73794678612242,115.2,correct
+9,Original 2024 script (legacy),22.0,14,98.05520891930416,93.60000000000001,correct
+9,Original 2024 script (legacy),5.0,40,113.91808427011689,111.60000000000001,correct
+9,Original 2024 script (legacy),4.0,18,71.09820406406061,68.4,correct
+9,Original 2024 script (legacy),18.0,37,88.34460542417611,86.4,correct
+9,Original 2024 script (legacy),11.0,4,78.39498094037276,79.2,correct
+9,No correction (constant scale),24.0,5,71.82276478945408,51.4395031463778,wrong
+9,No correction (constant scale),8.0,11,113.33142837916685,79.6488372057534,wrong
+9,No correction (constant scale),15.0,28,82.2982695357907,57.102728800638204,wrong
+9,No correction (constant scale),13.0,45,103.01636409779121,72.05345774612235,wrong
+9,No correction (constant scale),6.0,12,109.69352065995665,75.39627028145841,wrong
+9,No correction (constant scale),12.0,10,139.35842187255113,92.86279922834015,wrong
+9,No correction (constant scale),7.0,1,90.96409711672496,125.70367535138195,wrong
+9,No correction (constant scale),17.0,19,82.92438750727021,57.585727151011724,wrong
+9,No correction (constant scale),9.0,23,109.14526575853813,64.65141561006098,wrong
+9,No correction (constant scale),23.0,2,89.1657335067302,102.95778724106435,wrong
+9,No correction (constant scale),10.0,31,88.2154542250457,49.48350013175036,wrong
+9,No correction (constant scale),20.0,30,82.54083916550445,44.58156952383386,wrong
+9,No correction (constant scale),3.0,15,73.08705298577895,39.061200674829436,wrong
+9,No correction (constant scale),2.0,3,93.14525777195425,52.244168896814806,wrong
+9,No correction (constant scale),19.0,21,116.33467214095378,87.57517133322634,wrong
+9,No correction (constant scale),21.0,33,81.25565409741172,61.595384837068885,wrong
+9,No correction (constant scale),16.0,27,86.10616227969508,62.35797532326384,wrong
+9,No correction (constant scale),1.0,8,67.52590603692197,47.13296455176078,wrong
+9,No correction (constant scale),14.0,7,119.73794678612242,116.05614241359496,correct
+9,No correction (constant scale),22.0,14,98.05520891930416,86.86658590003987,wrong
+9,No correction (constant scale),5.0,40,113.91808427011689,106.61240252536399,wrong
+9,No correction (constant scale),4.0,18,71.09820406406061,72.29301934916118,correct
+9,No correction (constant scale),18.0,37,88.34460542417611,86.60581952543137,correct
+9,No correction (constant scale),11.0,4,78.39498094037276,56.79968491606503,wrong
+10,Perspective corrected (net displacement),10.0,22,56.93550314605081,55.80433032792364,correct
+10,Perspective corrected (net displacement),4.0,47,133.582054408661,134.2544137747256,correct
+10,Perspective corrected (net displacement),13.0,30,132.30807499815012,132.53776749815395,correct
+10,Perspective corrected (net displacement),5.0,1,105.26150716060495,104.49868373404323,correct
+10,Perspective corrected (net displacement),11.0,29,71.50221188936104,68.91237362581894,correct
+10,Perspective corrected (net displacement),8.0,24,103.84360180069692,103.1733389643733,correct
+10,Perspective corrected (net displacement),22.0,54,60.20168452186874,59.44703693275573,correct
+10,Perspective corrected (net displacement),15.0,39,69.88595253765945,69.90377177177722,correct
+10,Perspective corrected (net displacement),19.0,53,129.13871385791987,129.2625195827896,correct
+10,Perspective corrected (net displacement),18.0,2,90.80619542686259,90.65513555327449,correct
+10,Perspective corrected (net displacement),17.0,44,116.16501704562702,114.96692679358577,correct
+10,Perspective corrected (net displacement),6.0,32,98.33526589384837,98.1871343974504,correct
+10,Perspective corrected (net displacement),14.0,8,129.94154525014682,129.25697153597562,correct
+10,Perspective corrected (net displacement),3.0,3,108.74721096360828,107.14143485009616,correct
+10,Perspective corrected (net displacement),12.0,4,103.91220682608524,103.5743805342747,correct
+10,Perspective corrected (net displacement),1.0,14,78.46467284194152,77.20384095000796,correct
+10,Perspective corrected (net displacement),16.0,21,76.16742684454553,75.39055003944051,correct
+10,Perspective corrected (net displacement),23.0,42,113.89174787012655,113.28055706355525,correct
+10,Perspective corrected (net displacement),20.0,43,88.73037194141453,89.02706960588486,correct
+10,Perspective corrected (net displacement),2.0,10,61.22317252773692,61.81376063328969,correct
+10,Perspective corrected (net displacement),21.0,51,82.42046880376652,82.30604559684319,correct
+10,Perspective corrected (net displacement),24.0,5,58.14652839576735,57.437477900892084,correct
+10,Perspective corrected (net displacement),9.0,38,89.91098023699226,90.1138568283826,correct
+10,Perspective corrected (net displacement),7.0,33,65.58299835244375,65.33877144507923,correct
+10,"Perspective corrected (path length, literal)",10.0,22,56.93550314605081,303.36077522900086,wrong
+10,"Perspective corrected (path length, literal)",4.0,47,133.582054408661,168.37042895914306,wrong
+10,"Perspective corrected (path length, literal)",13.0,30,132.30807499815012,178.77771918565261,wrong
+10,"Perspective corrected (path length, literal)",5.0,1,105.26150716060495,135.37781972713398,wrong
+10,"Perspective corrected (path length, literal)",11.0,29,71.50221188936104,222.15363121446944,wrong
+10,"Perspective corrected (path length, literal)",8.0,24,103.84360180069692,143.56690531548742,wrong
+10,"Perspective corrected (path length, literal)",22.0,54,60.20168452186874,177.45641182803115,wrong
+10,"Perspective corrected (path length, literal)",15.0,39,69.88595253765945,289.44035537730184,wrong
+10,"Perspective corrected (path length, literal)",19.0,53,129.13871385791987,163.18537978523239,wrong
+10,"Perspective corrected (path length, literal)",18.0,2,90.80619542686259,129.63174707516134,wrong
+10,"Perspective corrected (path length, literal)",17.0,44,116.16501704562702,150.35581375076663,wrong
+10,"Perspective corrected (path length, literal)",6.0,32,98.33526589384837,160.3660303254194,wrong
+10,"Perspective corrected (path length, literal)",14.0,8,129.94154525014682,163.24789968770602,wrong
+10,"Perspective corrected (path length, literal)",3.0,3,108.74721096360828,116.68618690248445,wrong
+10,"Perspective corrected (path length, literal)",12.0,4,103.91220682608524,158.6484149025562,wrong
+10,"Perspective corrected (path length, literal)",1.0,14,78.46467284194152,272.9604537705547,wrong
+10,"Perspective corrected (path length, literal)",16.0,21,76.16742684454553,293.51130689755337,wrong
+10,"Perspective corrected (path length, literal)",23.0,42,113.89174787012655,146.26712112244954,wrong
+10,"Perspective corrected (path length, literal)",20.0,43,88.73037194141453,136.3187909110648,wrong
+10,"Perspective corrected (path length, literal)",2.0,10,61.22317252773692,135.2075981707,wrong
+10,"Perspective corrected (path length, literal)",21.0,51,82.42046880376652,224.6500786425684,wrong
+10,"Perspective corrected (path length, literal)",24.0,5,58.14652839576735,357.50402289475386,wrong
+10,"Perspective corrected (path length, literal)",9.0,38,89.91098023699226,137.63710292530644,wrong
+10,"Perspective corrected (path length, literal)",7.0,33,65.58299835244375,279.3983376861858,wrong
+10,Original 2024 script (legacy),10.0,22,56.93550314605081,54.0,correct
+10,Original 2024 script (legacy),4.0,47,133.582054408661,129.6,correct
+10,Original 2024 script (legacy),13.0,30,132.30807499815012,126.0,wrong
+10,Original 2024 script (legacy),5.0,1,105.26150716060495,100.8,correct
+10,Original 2024 script (legacy),11.0,29,71.50221188936104,68.4,correct
+10,Original 2024 script (legacy),8.0,24,103.84360180069692,100.8,correct
+10,Original 2024 script (legacy),22.0,54,60.20168452186874,57.6,correct
+10,Original 2024 script (legacy),15.0,39,69.88595253765945,68.4,correct
+10,Original 2024 script (legacy),19.0,53,129.13871385791987,126.0,correct
+10,Original 2024 script (legacy),18.0,2,90.80619542686259,90.0,correct
+10,Original 2024 script (legacy),17.0,44,116.16501704562702,111.60000000000001,correct
+10,Original 2024 script (legacy),6.0,32,98.33526589384837,93.60000000000001,correct
+10,Original 2024 script (legacy),14.0,8,129.94154525014682,126.0,correct
+10,Original 2024 script (legacy),3.0,3,108.74721096360828,100.8,wrong
+10,Original 2024 script (legacy),12.0,4,103.91220682608524,100.8,correct
+10,Original 2024 script (legacy),1.0,14,78.46467284194152,75.60000000000001,correct
+10,Original 2024 script (legacy),16.0,21,76.16742684454553,75.60000000000001,correct
+10,Original 2024 script (legacy),23.0,42,113.89174787012655,111.60000000000001,correct
+10,Original 2024 script (legacy),20.0,43,88.73037194141453,86.4,correct
+10,Original 2024 script (legacy),2.0,10,61.22317252773692,61.2,correct
+10,Original 2024 script (legacy),21.0,51,82.42046880376652,86.4,correct
+10,Original 2024 script (legacy),24.0,5,58.14652839576735,57.6,correct
+10,Original 2024 script (legacy),9.0,38,89.91098023699226,86.4,correct
+10,Original 2024 script (legacy),7.0,33,65.58299835244375,61.2,correct
+10,No correction (constant scale),10.0,22,56.93550314605081,40.58135963347811,wrong
+10,No correction (constant scale),4.0,47,133.582054408661,91.3818727497621,wrong
+10,No correction (constant scale),13.0,30,132.30807499815012,88.11809472502631,wrong
+10,No correction (constant scale),5.0,1,105.26150716060495,68.84562543014067,wrong
+10,No correction (constant scale),11.0,29,71.50221188936104,49.370095447199716,wrong
+10,No correction (constant scale),8.0,24,103.84360180069692,59.8628048267931,wrong
+10,No correction (constant scale),22.0,54,60.20168452186874,17.554155861783848,wrong
+10,No correction (constant scale),15.0,39,69.88595253765945,36.34665544997409,wrong
+10,No correction (constant scale),19.0,53,129.13871385791987,59.87762878351876,wrong
+10,No correction (constant scale),18.0,2,90.80619542686259,83.8960403185221,wrong
+10,No correction (constant scale),17.0,44,116.16501704562702,58.16975911504003,wrong
+10,No correction (constant scale),6.0,32,98.33526589384837,49.43379714963022,wrong
+10,No correction (constant scale),14.0,8,129.94154525014682,132.4973775463024,correct
+10,No correction (constant scale),3.0,3,108.74721096360828,198.88377500960456,wrong
+10,No correction (constant scale),12.0,4,103.91220682608524,42.80941860004094,wrong
+10,No correction (constant scale),1.0,14,78.46467284194152,67.87192067601438,wrong
+10,No correction (constant scale),16.0,21,76.16742684454553,70.4193095471449,wrong
+10,No correction (constant scale),23.0,42,113.89174787012655,111.10603598975266,correct
+10,No correction (constant scale),20.0,43,88.73037194141453,88.12546487989448,correct
+10,No correction (constant scale),2.0,10,61.22317252773692,60.75502873131299,correct
+10,No correction (constant scale),21.0,51,82.42046880376652,123.74702292850111,wrong
+10,No correction (constant scale),24.0,5,58.14652839576735,45.22996546322558,wrong
+10,No correction (constant scale),9.0,38,89.91098023699226,91.87687054379076,correct
+10,No correction (constant scale),7.0,33,65.58299835244375,70.1048073987065,correct
+11,Perspective corrected (net displacement),4.0,1,100.26262963286248,99.11015411049043,correct
+11,Perspective corrected (net displacement),17.0,43,123.27942736574649,122.55513075431588,correct
+11,Perspective corrected (net displacement),5.0,66,91.72980805046906,90.66387454143123,correct
+11,Perspective corrected (net displacement),7.0,2,58.47030116741547,58.14853426861964,correct
+11,Perspective corrected (net displacement),19.0,9,64.37488535607267,61.93951704969928,correct
+11,Perspective corrected (net displacement),13.0,33,138.55202603846695,138.2107897803584,correct
+11,Perspective corrected (net displacement),11.0,67,113.05917122572112,112.05971200900171,correct
+11,Perspective corrected (net displacement),9.0,47,92.75045760057033,92.15661997856122,correct
+11,Perspective corrected (net displacement),6.0,3,88.69581016442716,85.25342511796279,correct
+11,Perspective corrected (net displacement),15.0,15,90.00453929924078,89.83976315651219,correct
+11,Perspective corrected (net displacement),3.0,39,113.80800612547904,113.0778164071233,correct
+11,Perspective corrected (net displacement),2.0,12,69.79215918782856,69.35605743404021,correct
+11,Perspective corrected (net displacement),23.0,4,120.22830796725111,118.95993172192794,correct
+11,Perspective corrected (net displacement),10.0,52,118.07600134303578,117.86137606227324,correct
+11,Perspective corrected (net displacement),14.0,23,139.8771866322677,139.23177114314421,correct
+11,Perspective corrected (net displacement),21.0,16,62.3159626216064,56.80653314159572,wrong
+11,Perspective corrected (net displacement),18.0,42,49.75850025814479,49.56461668488573,correct
+11,Perspective corrected (net displacement),8.0,5,87.62922223402686,87.70594895865887,correct
+11,Perspective corrected (net displacement),12.0,6,63.85624191747525,63.95999399243672,correct
+11,Perspective corrected (net displacement),16.0,18,83.98292540847996,82.26964275857021,correct
+11,Perspective corrected (net displacement),22.0,45,100.53039914123676,99.78155175349552,correct
+11,Perspective corrected (net displacement),24.0,7,87.52688062346752,87.97748378672992,correct
+11,Perspective corrected (net displacement),20.0,24,100.19496962059934,100.52125639622784,correct
+11,Perspective corrected (net displacement),1.0,8,82.46586624288028,81.20038296555998,correct
+11,"Perspective corrected (path length, literal)",4.0,1,100.26262963286248,281.7756249834683,wrong
+11,"Perspective corrected (path length, literal)",17.0,43,123.27942736574649,151.94441994852502,wrong
+11,"Perspective corrected (path length, literal)",5.0,66,91.72980805046906,147.40159949469233,wrong
+11,"Perspective corrected (path length, literal)",7.0,2,58.47030116741547,210.2603629591714,wrong
+11,"Perspective corrected (path length, literal)",19.0,9,64.37488535607267,318.0184576145494,wrong
+11,"Perspective corrected (path length, literal)",13.0,33,138.55202603846695,171.99463709858665,wrong
+11,"Perspective corrected (path length, literal)",11.0,67,113.05917122572112,161.31568291400873,wrong
+11,"Perspective corrected (path length, literal)",9.0,47,92.75045760057033,139.30630392586056,wrong
+11,"Perspective corrected (path length, literal)",6.0,3,88.69581016442716,211.54190443506144,wrong
+11,"Perspective corrected (path length, literal)",15.0,15,90.00453929924078,139.6202393196955,wrong
+11,"Perspective corrected (path length, literal)",3.0,39,113.80800612547904,160.21793398613445,wrong
+11,"Perspective corrected (path length, literal)",2.0,12,69.79215918782856,133.23615119252068,wrong
+11,"Perspective corrected (path length, literal)",23.0,4,120.22830796725111,136.7007513958102,wrong
+11,"Perspective corrected (path length, literal)",10.0,52,118.07600134303578,148.9568738140017,wrong
+11,"Perspective corrected (path length, literal)",14.0,23,139.8771866322677,160.74627694610635,wrong
+11,"Perspective corrected (path length, literal)",21.0,16,62.3159626216064,271.1114903519049,wrong
+11,"Perspective corrected (path length, literal)",18.0,42,49.75850025814479,336.63188410875796,wrong
+11,"Perspective corrected (path length, literal)",8.0,5,87.62922223402686,141.96880274154367,wrong
+11,"Perspective corrected (path length, literal)",12.0,6,63.85624191747525,132.55812397378068,wrong
+11,"Perspective corrected (path length, literal)",16.0,18,83.98292540847996,305.98929466685223,wrong
+11,"Perspective corrected (path length, literal)",22.0,45,100.53039914123676,136.7975907308204,wrong
+11,"Perspective corrected (path length, literal)",24.0,7,87.52688062346752,150.87221202138034,wrong
+11,"Perspective corrected (path length, literal)",20.0,24,100.19496962059934,154.73531110464728,wrong
+11,"Perspective corrected (path length, literal)",1.0,8,82.46586624288028,153.27700855774464,wrong
+11,Original 2024 script (legacy),4.0,1,100.26262963286248,97.2,correct
+11,Original 2024 script (legacy),17.0,43,123.27942736574649,118.8,correct
+11,Original 2024 script (legacy),5.0,66,91.72980805046906,90.0,correct
+11,Original 2024 script (legacy),7.0,2,58.47030116741547,61.2,correct
+11,Original 2024 script (legacy),19.0,9,64.37488535607267,68.4,correct
+11,Original 2024 script (legacy),13.0,33,138.55202603846695,133.20000000000002,wrong
+11,Original 2024 script (legacy),11.0,67,113.05917122572112,108.0,wrong
+11,Original 2024 script (legacy),9.0,47,92.75045760057033,90.0,correct
+11,Original 2024 script (legacy),6.0,3,88.69581016442716,82.8,wrong
+11,Original 2024 script (legacy),15.0,15,90.00453929924078,90.0,correct
+11,Original 2024 script (legacy),3.0,39,113.80800612547904,111.60000000000001,correct
+11,Original 2024 script (legacy),2.0,12,69.79215918782856,68.4,correct
+11,Original 2024 script (legacy),23.0,4,120.22830796725111,118.8,correct
+11,Original 2024 script (legacy),10.0,52,118.07600134303578,115.2,correct
+11,Original 2024 script (legacy),14.0,23,139.8771866322677,136.8,correct
+11,Original 2024 script (legacy),21.0,16,62.3159626216064,57.6,correct
+11,Original 2024 script (legacy),18.0,42,49.75850025814479,50.4,correct
+11,Original 2024 script (legacy),8.0,5,87.62922223402686,86.4,correct
+11,Original 2024 script (legacy),12.0,6,63.85624191747525,64.8,correct
+11,Original 2024 script (legacy),16.0,18,83.98292540847996,82.8,correct
+11,Original 2024 script (legacy),22.0,45,100.53039914123676,100.8,correct
+11,Original 2024 script (legacy),24.0,7,87.52688062346752,86.4,correct
+11,Original 2024 script (legacy),20.0,24,100.19496962059934,97.2,correct
+11,Original 2024 script (legacy),1.0,8,82.46586624288028,79.2,correct
+11,No correction (constant scale),4.0,1,100.26262963286248,113.88023982597753,wrong
+11,No correction (constant scale),17.0,43,123.27942736574649,84.2962156889458,wrong
+11,No correction (constant scale),5.0,66,91.72980805046906,49.35109773966454,wrong
+11,No correction (constant scale),7.0,2,58.47030116741547,76.27592797918246,wrong
+11,No correction (constant scale),19.0,9,64.37488535607267,27.967741514575454,wrong
+11,No correction (constant scale),13.0,33,138.55202603846695,79.11363220222749,wrong
+11,No correction (constant scale),11.0,67,113.05917122572112,48.66535008600298,wrong
+11,No correction (constant scale),9.0,47,92.75045760057033,49.63728869211805,wrong
+11,No correction (constant scale),6.0,3,88.69581016442716,74.85954494754739,wrong
+11,No correction (constant scale),15.0,15,90.00453929924078,49.3662662544902,wrong
+11,No correction (constant scale),3.0,39,113.80800612547904,55.34637546167548,wrong
+11,No correction (constant scale),2.0,12,69.79215918782856,39.348472554947925,wrong
+11,No correction (constant scale),23.0,4,120.22830796725111,106.27596430138058,wrong
+11,No correction (constant scale),10.0,52,118.07600134303578,96.35112289518813,wrong
+11,No correction (constant scale),14.0,23,139.8771866322677,111.47645623607251,wrong
+11,No correction (constant scale),21.0,16,62.3159626216064,49.25111372081798,wrong
+11,No correction (constant scale),18.0,42,49.75850025814479,27.518995663679547,wrong
+11,No correction (constant scale),8.0,5,87.62922223402686,74.41783171406703,wrong
+11,No correction (constant scale),12.0,6,63.85624191747525,39.813861523395005,wrong
+11,No correction (constant scale),16.0,18,83.98292540847996,83.91246228256742,correct
+11,No correction (constant scale),22.0,45,100.53039914123676,102.66935781813012,correct
+11,No correction (constant scale),24.0,7,87.52688062346752,57.44785352436632,wrong
+11,No correction (constant scale),20.0,24,100.19496962059934,101.40356749239473,correct
+11,No correction (constant scale),1.0,8,82.46586624288028,61.56079763079741,wrong
+12,Perspective corrected (net displacement),15.0,19,67.41628320313906,67.14829346283433,correct
+12,Perspective corrected (net displacement),23.0,10,73.15484840947018,72.74796695600203,correct
+12,Perspective corrected (net displacement),20.0,1,64.68775841605733,64.58833052707617,correct
+12,Perspective corrected (net displacement),22.0,34,71.45691088011776,71.61439770551712,correct
+12,Perspective corrected (net displacement),10.0,47,85.43882278385442,81.76405694649756,correct
+12,Perspective corrected (net displacement),8.0,2,100.65525285486132,101.08416629524078,correct
+12,Perspective corrected (net displacement),12.0,21,99.8333322007478,99.34124937390874,correct
+12,Perspective corrected (net displacement),9.0,24,135.64664574546367,134.77838559289148,correct
+12,Perspective corrected (net displacement),24.0,3,115.93363923074328,115.61262442140799,correct
+12,Perspective corrected (net displacement),2.0,46,133.30797835113196,132.1969600260582,correct
+12,Perspective corrected (net displacement),19.0,4,94.1118129491247,93.61915796442894,correct
+12,Perspective corrected (net displacement),4.0,23,122.17225904717642,120.53315686525734,correct
+12,Perspective corrected (net displacement),21.0,18,56.30681675768035,54.706520536196805,correct
+12,Perspective corrected (net displacement),13.0,5,97.47213755075872,94.92304475320088,correct
+12,Perspective corrected (net displacement),1.0,6,81.90959903186257,82.29187336147007,correct
+12,Perspective corrected (net displacement),7.0,7,67.67180094728452,67.15392495318223,correct
+12,Perspective corrected (net displacement),6.0,15,94.44159647933706,95.05919290986819,correct
+12,Perspective corrected (net displacement),17.0,45,124.81514263772507,124.45930344219722,correct
+12,Perspective corrected (net displacement),18.0,14,81.44154846192491,80.81631879230576,correct
+12,Perspective corrected (net displacement),16.0,8,76.28232230204026,76.46700793817607,correct
+12,Perspective corrected (net displacement),14.0,13,124.36719510372171,124.19719098346853,correct
+12,Perspective corrected (net displacement),3.0,30,95.35184699561736,95.48652423551991,correct
+12,Perspective corrected (net displacement),11.0,37,129.78957564932313,130.13321829007404,correct
+12,Perspective corrected (net displacement),5.0,42,55.05608142596701,55.23997165506979,correct
+12,"Perspective corrected (path length, literal)",15.0,19,67.41628320313906,153.1910469205855,wrong
+12,"Perspective corrected (path length, literal)",23.0,10,73.15484840947018,149.799460222192,wrong
+12,"Perspective corrected (path length, literal)",20.0,1,64.68775841605733,261.92367357895046,wrong
+12,"Perspective corrected (path length, literal)",22.0,34,71.45691088011776,138.650067302115,wrong
+12,"Perspective corrected (path length, literal)",10.0,47,85.43882278385442,371.3836201481232,wrong
+12,"Perspective corrected (path length, literal)",8.0,2,100.65525285486132,146.6337765015349,wrong
+12,"Perspective corrected (path length, literal)",12.0,21,99.8333322007478,151.48300322409688,wrong
+12,"Perspective corrected (path length, literal)",9.0,24,135.64664574546367,163.54243192009778,wrong
+12,"Perspective corrected (path length, literal)",24.0,3,115.93363923074328,154.59270505836565,wrong
+12,"Perspective corrected (path length, literal)",2.0,46,133.30797835113196,165.31745332954063,wrong
+12,"Perspective corrected (path length, literal)",19.0,4,94.1118129491247,122.03538078229522,wrong
+12,"Perspective corrected (path length, literal)",4.0,23,122.17225904717642,159.0002718457357,wrong
+12,"Perspective corrected (path length, literal)",21.0,18,56.30681675768035,318.41849296835716,wrong
+12,"Perspective corrected (path length, literal)",13.0,5,97.47213755075872,301.90583140448507,wrong
+12,"Perspective corrected (path length, literal)",1.0,6,81.90959903186257,152.25826107474865,wrong
+12,"Perspective corrected (path length, literal)",7.0,7,67.67180094728452,134.96215586959278,wrong
+12,"Perspective corrected (path length, literal)",6.0,15,94.44159647933706,144.37236803075513,wrong
+12,"Perspective corrected (path length, literal)",17.0,45,124.81514263772507,145.5236184904156,wrong
+12,"Perspective corrected (path length, literal)",18.0,14,81.44154846192491,273.6161183003705,wrong
+12,"Perspective corrected (path length, literal)",16.0,8,76.28232230204026,148.02265055321794,wrong
+12,"Perspective corrected (path length, literal)",14.0,13,124.36719510372171,142.84773028513706,wrong
+12,"Perspective corrected (path length, literal)",3.0,30,95.35184699561736,131.38894018227407,wrong
+12,"Perspective corrected (path length, literal)",11.0,37,129.78957564932313,150.641089433909,wrong
+12,"Perspective corrected (path length, literal)",5.0,42,55.05608142596701,212.02248473355857,wrong
+12,Original 2024 script (legacy),15.0,19,67.41628320313906,64.8,correct
+12,Original 2024 script (legacy),23.0,10,73.15484840947018,72.0,correct
+12,Original 2024 script (legacy),20.0,1,64.68775841605733,64.8,correct
+12,Original 2024 script (legacy),22.0,34,71.45691088011776,72.0,correct
+12,Original 2024 script (legacy),10.0,47,85.43882278385442,82.8,correct
+12,Original 2024 script (legacy),8.0,2,100.65525285486132,97.2,correct
+12,Original 2024 script (legacy),12.0,21,99.8333322007478,97.2,correct
+12,Original 2024 script (legacy),9.0,24,135.64664574546367,133.20000000000002,correct
+12,Original 2024 script (legacy),24.0,3,115.93363923074328,111.60000000000001,correct
+12,Original 2024 script (legacy),2.0,46,133.30797835113196,129.6,correct
+12,Original 2024 script (legacy),19.0,4,94.1118129491247,93.60000000000001,correct
+12,Original 2024 script (legacy),4.0,23,122.17225904717642,115.2,wrong
+12,Original 2024 script (legacy),21.0,18,56.30681675768035,54.0,correct
+12,Original 2024 script (legacy),13.0,5,97.47213755075872,93.60000000000001,correct
+12,Original 2024 script (legacy),1.0,6,81.90959903186257,82.8,correct
+12,Original 2024 script (legacy),7.0,7,67.67180094728452,64.8,correct
+12,Original 2024 script (legacy),6.0,15,94.44159647933706,93.60000000000001,correct
+12,Original 2024 script (legacy),17.0,45,124.81514263772507,118.8,wrong
+12,Original 2024 script (legacy),18.0,14,81.44154846192491,79.2,correct
+12,Original 2024 script (legacy),16.0,8,76.28232230204026,75.60000000000001,correct
+12,Original 2024 script (legacy),14.0,13,124.36719510372171,122.4,correct
+12,Original 2024 script (legacy),3.0,30,95.35184699561736,93.60000000000001,correct
+12,Original 2024 script (legacy),11.0,37,129.78957564932313,126.0,correct
+12,Original 2024 script (legacy),5.0,42,55.05608142596701,54.0,correct
+12,No correction (constant scale),15.0,19,67.41628320313906,48.916425894484085,wrong
+12,No correction (constant scale),23.0,10,73.15484840947018,49.82131092016793,wrong
+12,No correction (constant scale),20.0,1,64.68775841605733,58.48462812852982,wrong
+12,No correction (constant scale),22.0,34,71.45691088011776,47.937095336957235,wrong
+12,No correction (constant scale),10.0,47,85.43882278385442,38.670286347950274,wrong
+12,No correction (constant scale),8.0,2,100.65525285486132,100.18475731121154,correct
+12,No correction (constant scale),12.0,21,99.8333322007478,59.10389153726683,wrong
+12,No correction (constant scale),9.0,24,135.64664574546367,70.16867425334897,wrong
+12,No correction (constant scale),24.0,3,115.93363923074328,67.56806614186672,wrong
+12,No correction (constant scale),2.0,46,133.30797835113196,71.76994973581756,wrong
+12,No correction (constant scale),19.0,4,94.1118129491247,75.79798298799298,wrong
+12,No correction (constant scale),4.0,23,122.17225904717642,93.39118925071021,wrong
+12,No correction (constant scale),21.0,18,56.30681675768035,44.29260189164876,wrong
+12,No correction (constant scale),13.0,5,97.47213755075872,67.9120236333182,wrong
+12,No correction (constant scale),1.0,6,81.90959903186257,39.490354895331784,wrong
+12,No correction (constant scale),7.0,7,67.67180094728452,33.88830029463719,wrong
+12,No correction (constant scale),6.0,15,94.44159647933706,50.129535922082205,wrong
+12,No correction (constant scale),17.0,45,124.81514263772507,118.24753730441668,wrong
+12,No correction (constant scale),18.0,14,81.44154846192491,75.86699828809569,wrong
+12,No correction (constant scale),16.0,8,76.28232230204026,52.424527340638775,wrong
+12,No correction (constant scale),14.0,13,124.36719510372171,123.42816098683016,correct
+12,No correction (constant scale),3.0,30,95.35184699561736,92.26989345701097,correct
+12,No correction (constant scale),11.0,37,129.78957564932313,128.0448104013449,correct
+12,No correction (constant scale),5.0,42,55.05608142596701,114.80526381346745,wrong
+13,Perspective corrected (net displacement),19.0,1,62.488292245276156,62.55986515580022,correct
+13,Perspective corrected (net displacement),21.0,2,48.73844452415683,47.84294971504842,correct
+13,Perspective corrected (net displacement),16.0,35,110.59472397687698,110.8780029857653,correct
+13,Perspective corrected (net displacement),18.0,3,133.05231051727003,130.67825338924274,correct
+13,Perspective corrected (net displacement),6.0,20,79.68391117441452,79.41613490704356,correct
+13,Perspective corrected (net displacement),15.0,4,55.826482081872925,55.89996837133444,correct
+13,Perspective corrected (net displacement),23.0,7,113.93949774981678,112.22034800790928,correct
+13,Perspective corrected (net displacement),2.0,42,95.8950768210495,95.09368661676888,correct
+13,Perspective corrected (net displacement),5.0,30,80.73790755559219,80.48366497913892,correct
+13,Perspective corrected (net displacement),22.0,52,129.41297804192328,127.1558077202799,correct
+13,Perspective corrected (net displacement),14.0,24,121.55527717345797,121.38732899887329,correct
+13,Perspective corrected (net displacement),12.0,28,114.30201233099754,113.97318485697572,correct
+13,Perspective corrected (net displacement),9.0,46,132.8914237675644,132.31252877716466,correct
+13,Perspective corrected (net displacement),7.0,56,67.62952385265154,66.26251948232373,correct
+13,Perspective corrected (net displacement),10.0,5,74.82277071367908,72.28792515126372,correct
+13,Perspective corrected (net displacement),3.0,10,60.39772899675343,60.606043591369044,correct
+13,Perspective corrected (net displacement),13.0,9,88.61424017846224,88.10344848915491,correct
+13,Perspective corrected (net displacement),8.0,21,64.62007862483297,62.44115047884265,correct
+13,Perspective corrected (net displacement),4.0,27,87.14657019510574,85.47386091921388,correct
+13,Perspective corrected (net displacement),24.0,6,80.67381580444388,80.019170245802,correct
+13,Perspective corrected (net displacement),11.0,41,91.17278434264429,91.11219033811555,correct
+13,Perspective corrected (net displacement),17.0,47,79.34782652064807,79.02233866323648,correct
+13,Perspective corrected (net displacement),20.0,50,74.9502287485368,75.02416940477181,correct
+13,Perspective corrected (net displacement),1.0,23,69.73757540611535,69.44871147377226,correct
+13,"Perspective corrected (path length, literal)",19.0,1,62.488292245276156,119.63225802975145,wrong
+13,"Perspective corrected (path length, literal)",21.0,2,48.73844452415683,252.55754729622132,wrong
+13,"Perspective corrected (path length, literal)",16.0,35,110.59472397687698,151.84397202545853,wrong
+13,"Perspective corrected (path length, literal)",18.0,3,133.05231051727003,140.11168173992712,wrong
+13,"Perspective corrected (path length, literal)",6.0,20,79.68391117441452,135.76128815314632,wrong
+13,"Perspective corrected (path length, literal)",15.0,4,55.826482081872925,292.9758576092495,wrong
+13,"Perspective corrected (path length, literal)",23.0,7,113.93949774981678,144.92049516496752,wrong
+13,"Perspective corrected (path length, literal)",2.0,42,95.8950768210495,130.25108285484004,wrong
+13,"Perspective corrected (path length, literal)",5.0,30,80.73790755559219,145.67897709670171,wrong
+13,"Perspective corrected (path length, literal)",22.0,52,129.41297804192328,168.6421319684969,wrong
+13,"Perspective corrected (path length, literal)",14.0,24,121.55527717345797,172.12225935051833,wrong
+13,"Perspective corrected (path length, literal)",12.0,28,114.30201233099754,149.77822943993232,wrong
+13,"Perspective corrected (path length, literal)",9.0,46,132.8914237675644,159.4214233389788,wrong
+13,"Perspective corrected (path length, literal)",7.0,56,67.62952385265154,157.31222287730554,wrong
+13,"Perspective corrected (path length, literal)",10.0,5,74.82277071367908,244.33194176847553,wrong
+13,"Perspective corrected (path length, literal)",3.0,10,60.39772899675343,113.76350098910159,wrong
+13,"Perspective corrected (path length, literal)",13.0,9,88.61424017846224,152.6664482493162,wrong
+13,"Perspective corrected (path length, literal)",8.0,21,64.62007862483297,313.24446657607757,wrong
+13,"Perspective corrected (path length, literal)",4.0,27,87.14657019510574,271.57478123067114,wrong
+13,"Perspective corrected (path length, literal)",24.0,6,80.67381580444388,137.51769117105218,wrong
+13,"Perspective corrected (path length, literal)",11.0,41,91.17278434264429,152.07267331842064,wrong
+13,"Perspective corrected (path length, literal)",17.0,47,79.34782652064807,114.88464164562949,wrong
+13,"Perspective corrected (path length, literal)",20.0,50,74.9502287485368,108.82683582311937,wrong
+13,"Perspective corrected (path length, literal)",1.0,23,69.73757540611535,145.17251962076546,wrong
+13,Original 2024 script (legacy),19.0,1,62.488292245276156,61.2,correct
+13,Original 2024 script (legacy),21.0,2,48.73844452415683,46.800000000000004,correct
+13,Original 2024 script (legacy),16.0,35,110.59472397687698,104.4,wrong
+13,Original 2024 script (legacy),18.0,3,133.05231051727003,122.4,wrong
+13,Original 2024 script (legacy),6.0,20,79.68391117441452,75.60000000000001,correct
+13,Original 2024 script (legacy),15.0,4,55.826482081872925,57.6,correct
+13,Original 2024 script (legacy),23.0,7,113.93949774981678,111.60000000000001,correct
+13,Original 2024 script (legacy),2.0,42,95.8950768210495,93.60000000000001,correct
+13,Original 2024 script (legacy),5.0,30,80.73790755559219,79.2,correct
+13,Original 2024 script (legacy),22.0,52,129.41297804192328,122.4,wrong
+13,Original 2024 script (legacy),14.0,24,121.55527717345797,118.8,correct
+13,Original 2024 script (legacy),12.0,28,114.30201233099754,108.94736842105263,wrong
+13,Original 2024 script (legacy),9.0,46,132.8914237675644,126.93850267379679,wrong
+13,Original 2024 script (legacy),7.0,56,67.62952385265154,64.8,correct
+13,Original 2024 script (legacy),10.0,5,74.82277071367908,72.0,correct
+13,Original 2024 script (legacy),3.0,10,60.39772899675343,61.2,correct
+13,Original 2024 script (legacy),13.0,9,88.61424017846224,86.4,correct
+13,Original 2024 script (legacy),8.0,21,64.62007862483297,61.2,correct
+13,Original 2024 script (legacy),4.0,27,87.14657019510574,82.8,correct
+13,Original 2024 script (legacy),24.0,6,80.67381580444388,79.2,correct
+13,Original 2024 script (legacy),11.0,41,91.17278434264429,90.0,correct
+13,Original 2024 script (legacy),17.0,47,79.34782652064807,79.2,correct
+13,Original 2024 script (legacy),20.0,50,74.9502287485368,72.0,correct
+13,Original 2024 script (legacy),1.0,23,69.73757540611535,68.4,correct
+13,No correction (constant scale),19.0,1,62.488292245276156,51.505742984637834,wrong
+13,No correction (constant scale),21.0,2,48.73844452415683,40.38762371677604,wrong
+13,No correction (constant scale),16.0,35,110.59472397687698,76.18105272899822,wrong
+13,No correction (constant scale),18.0,3,133.05231051727003,388.2711944515182,wrong
+13,No correction (constant scale),6.0,20,79.68391117441452,57.433521591454934,wrong
+13,No correction (constant scale),15.0,4,55.826482081872925,37.707731386464744,wrong
+13,No correction (constant scale),23.0,7,113.93949774981678,68.12320363426251,wrong
+13,No correction (constant scale),2.0,42,95.8950768210495,86.53591921262014,wrong
+13,No correction (constant scale),5.0,30,80.73790755559219,44.91837808636595,wrong
+13,No correction (constant scale),22.0,52,129.41297804192328,74.07909903507945,wrong
+13,No correction (constant scale),14.0,24,121.55527717345797,66.72224126668658,wrong
+13,No correction (constant scale),12.0,28,114.30201233099754,59.54190439921949,wrong
+13,No correction (constant scale),9.0,46,132.8914237675644,69.43001510021789,wrong
+13,No correction (constant scale),7.0,56,67.62952385265154,17.40146869548788,wrong
+13,No correction (constant scale),10.0,5,74.82277071367908,68.18071826448067,wrong
+13,No correction (constant scale),3.0,10,60.39772899675343,41.51355861442154,wrong
+13,No correction (constant scale),13.0,9,88.61424017846224,63.30583040002199,wrong
+13,No correction (constant scale),8.0,21,64.62007862483297,53.143379065328,wrong
+13,No correction (constant scale),4.0,27,87.14657019510574,79.93309105771105,wrong
+13,No correction (constant scale),24.0,6,80.67381580444388,63.51708027944238,wrong
+13,No correction (constant scale),11.0,41,91.17278434264429,82.7019381245659,wrong
+13,No correction (constant scale),17.0,47,79.34782652064807,111.72307642098309,wrong
+13,No correction (constant scale),20.0,50,74.9502287485368,117.8466691932242,wrong
+13,No correction (constant scale),1.0,23,69.73757540611535,70.56218603250157,correct
+14,Perspective corrected (net displacement),22.0,11,103.27216695933708,102.96439189298094,correct
+14,Perspective corrected (net displacement),19.0,32,78.94678013437101,78.88977585592474,correct
+14,Perspective corrected (net displacement),23.0,1,62.17005699509565,62.09631442191662,correct
+14,Perspective corrected (net displacement),5.0,24,88.42674385140933,87.16472672280233,correct
+14,Perspective corrected (net displacement),24.0,15,104.72745136887531,104.61434517706965,correct
+14,Perspective corrected (net displacement),1.0,7,116.78409523267402,115.64178220728402,correct
+14,Perspective corrected (net displacement),9.0,39,105.17163030201385,105.03065811249341,correct
+14,Perspective corrected (net displacement),10.0,2,105.97638641183627,105.66539940510677,correct
+14,Perspective corrected (net displacement),8.0,13,80.4906757036674,77.43777829944325,correct
+14,Perspective corrected (net displacement),11.0,46,69.68021358921357,70.16923269763666,correct
+14,Perspective corrected (net displacement),21.0,3,135.16819837354905,138.60010872059033,correct
+14,Perspective corrected (net displacement),16.0,9,121.4551254232587,123.86354487027987,correct
+14,Perspective corrected (net displacement),3.0,54,56.08630393531567,54.32046334857399,correct
+14,Perspective corrected (net displacement),18.0,29,96.3437179751465,96.5105390668024,correct
+14,Perspective corrected (net displacement),4.0,20,60.61535222269883,61.03693885806367,correct
+14,Perspective corrected (net displacement),2.0,4,114.07857479373655,113.83331462987303,correct
+14,Perspective corrected (net displacement),6.0,5,82.09088245948112,82.50721278857665,correct
+14,Perspective corrected (net displacement),17.0,18,74.97167953662301,74.44495787026634,correct
+14,Perspective corrected (net displacement),20.0,6,61.56864334889665,61.92672917148884,correct
+14,Perspective corrected (net displacement),14.0,57,124.96769768621198,125.48685272131995,correct
+14,Perspective corrected (net displacement),7.0,42,81.05480108205163,80.59827404285335,correct
+14,Perspective corrected (net displacement),12.0,41,115.07385282435717,114.63082464816439,correct
+14,Perspective corrected (net displacement),13.0,50,83.64008392442948,83.80665343323409,correct
+14,Perspective corrected (net displacement),15.0,37,55.55092978881626,54.426645919647406,correct
+14,"Perspective corrected (path length, literal)",22.0,11,103.27216695933708,264.2268480288558,wrong
+14,"Perspective corrected (path length, literal)",19.0,32,78.94678013437101,148.12665436764064,wrong
+14,"Perspective corrected (path length, literal)",23.0,1,62.17005699509565,114.52531895348963,wrong
+14,"Perspective corrected (path length, literal)",5.0,24,88.42674385140933,261.5139945782346,wrong
+14,"Perspective corrected (path length, literal)",24.0,15,104.72745136887531,144.45695444391086,wrong
+14,"Perspective corrected (path length, literal)",1.0,7,116.78409523267402,138.9038971725703,wrong
+14,"Perspective corrected (path length, literal)",9.0,39,105.17163030201385,145.10660519207818,wrong
+14,"Perspective corrected (path length, literal)",10.0,2,105.97638641183627,148.593650684666,wrong
+14,"Perspective corrected (path length, literal)",8.0,13,80.4906757036674,294.68469246393823,wrong
+14,"Perspective corrected (path length, literal)",11.0,46,69.68021358921357,136.95267151954573,wrong
+14,"Perspective corrected (path length, literal)",21.0,3,135.16819837354905,138.68066032295621,correct
+14,"Perspective corrected (path length, literal)",16.0,9,121.4551254232587,132.07736141311958,wrong
+14,"Perspective corrected (path length, literal)",3.0,54,56.08630393531567,407.76454790185664,wrong
+14,"Perspective corrected (path length, literal)",18.0,29,96.3437179751465,147.07972757254848,wrong
+14,"Perspective corrected (path length, literal)",4.0,20,60.61535222269883,232.5122724744587,wrong
+14,"Perspective corrected (path length, literal)",2.0,4,114.07857479373655,176.65063974114287,wrong
+14,"Perspective corrected (path length, literal)",6.0,5,82.09088245948112,168.77063953117573,wrong
+14,"Perspective corrected (path length, literal)",17.0,18,74.97167953662301,140.8917022331041,wrong
+14,"Perspective corrected (path length, literal)",20.0,6,61.56864334889665,114.17458320187428,wrong
+14,"Perspective corrected (path length, literal)",14.0,57,124.96769768621198,156.68458703411682,wrong
+14,"Perspective corrected (path length, literal)",7.0,42,81.05480108205163,133.0357697053436,wrong
+14,"Perspective corrected (path length, literal)",12.0,41,115.07385282435717,159.35585844011723,wrong
+14,"Perspective corrected (path length, literal)",13.0,50,83.64008392442948,108.48193661146496,wrong
+14,"Perspective corrected (path length, literal)",15.0,37,55.55092978881626,225.53594350284237,wrong
+14,Original 2024 script (legacy),22.0,11,103.27216695933708,100.8,correct
+14,Original 2024 script (legacy),19.0,32,78.94678013437101,75.60000000000001,correct
+14,Original 2024 script (legacy),23.0,1,62.17005699509565,61.2,correct
+14,Original 2024 script (legacy),5.0,24,88.42674385140933,82.8,wrong
+14,Original 2024 script (legacy),24.0,15,104.72745136887531,100.8,correct
+14,Original 2024 script (legacy),1.0,7,116.78409523267402,115.2,correct
+14,Original 2024 script (legacy),9.0,39,105.17163030201385,100.8,correct
+14,Original 2024 script (legacy),10.0,2,105.97638641183627,100.8,wrong
+14,Original 2024 script (legacy),8.0,13,80.4906757036674,75.60000000000001,correct
+14,Original 2024 script (legacy),11.0,46,69.68021358921357,68.4,correct
+14,Original 2024 script (legacy),21.0,3,135.16819837354905,144.0,wrong
+14,Original 2024 script (legacy),16.0,9,121.4551254232587,124.91638795986623,correct
+14,Original 2024 script (legacy),3.0,54,56.08630393531567,50.4,wrong
+14,Original 2024 script (legacy),18.0,29,96.3437179751465,93.60000000000001,correct
+14,Original 2024 script (legacy),4.0,20,60.61535222269883,57.6,correct
+14,Original 2024 script (legacy),2.0,4,114.07857479373655,111.60000000000001,correct
+14,Original 2024 script (legacy),6.0,5,82.09088245948112,79.2,correct
+14,Original 2024 script (legacy),17.0,18,74.97167953662301,72.0,correct
+14,Original 2024 script (legacy),20.0,6,61.56864334889665,61.2,correct
+14,Original 2024 script (legacy),14.0,57,124.96769768621198,126.0,correct
+14,Original 2024 script (legacy),7.0,42,81.05480108205163,79.2,correct
+14,Original 2024 script (legacy),12.0,41,115.07385282435717,111.60000000000001,correct
+14,Original 2024 script (legacy),13.0,50,83.64008392442948,86.4,correct
+14,Original 2024 script (legacy),15.0,37,55.55092978881626,55.19230769230769,correct
+14,No correction (constant scale),22.0,11,103.27216695933708,70.29921830891283,wrong
+14,No correction (constant scale),19.0,32,78.94678013437101,54.62833786129694,wrong
+14,No correction (constant scale),23.0,1,62.17005699509565,76.19598382521396,wrong
+14,No correction (constant scale),5.0,24,88.42674385140933,62.140801592480884,wrong
+14,No correction (constant scale),24.0,15,104.72745136887531,59.868821513535416,wrong
+14,No correction (constant scale),1.0,7,116.78409523267402,152.9082065671493,wrong
+14,No correction (constant scale),9.0,39,105.17163030201385,60.16066557448265,wrong
+14,No correction (constant scale),10.0,2,105.97638641183627,54.15990575255189,wrong
+14,No correction (constant scale),8.0,13,80.4906757036674,44.193017989187645,wrong
+14,No correction (constant scale),11.0,46,69.68021358921357,25.724493527411546,wrong
+14,No correction (constant scale),21.0,3,135.16819837354905,320.18158180293983,wrong
+14,No correction (constant scale),16.0,9,121.4551254232587,309.52467626168914,wrong
+14,No correction (constant scale),3.0,54,56.08630393531567,14.396830815703975,wrong
+14,No correction (constant scale),18.0,29,96.3437179751465,71.33710509118319,wrong
+14,No correction (constant scale),4.0,20,60.61535222269883,55.74505494467061,correct
+14,No correction (constant scale),2.0,4,114.07857479373655,82.27460850180827,wrong
+14,No correction (constant scale),6.0,5,82.09088245948112,42.523721795400874,wrong
+14,No correction (constant scale),17.0,18,74.97167953662301,70.73980373203307,correct
+14,No correction (constant scale),20.0,6,61.56864334889665,58.61915061279917,correct
+14,No correction (constant scale),14.0,57,124.96769768621198,185.37280229184407,wrong
+14,No correction (constant scale),7.0,42,81.05480108205163,84.5917169641934,correct
+14,No correction (constant scale),12.0,41,115.07385282435717,119.42611154226213,correct
+14,No correction (constant scale),13.0,50,83.64008392442948,128.71192495376772,wrong
+14,No correction (constant scale),15.0,37,55.55092978881626,67.21711944538703,wrong
+15,Perspective corrected (net displacement),14.0,1,127.9805837588988,129.0781588128355,correct
+15,Perspective corrected (net displacement),21.0,26,76.22897839916615,75.44604884730381,correct
+15,Perspective corrected (net displacement),22.0,41,89.40475204231905,87.8704673281705,correct
+15,Perspective corrected (net displacement),20.0,44,96.27262146631062,93.5901634147454,correct
+15,Perspective corrected (net displacement),3.0,15,68.2546486824887,67.72370475118794,correct
+15,Perspective corrected (net displacement),15.0,19,112.89275793633188,112.47947279764763,correct
+15,Perspective corrected (net displacement),11.0,6,135.7166393488246,134.69126035655898,correct
+15,Perspective corrected (net displacement),19.0,36,71.23139880783839,70.02159359855276,correct
+15,Perspective corrected (net displacement),2.0,25,78.32070932169245,76.27040321267268,correct
+15,Perspective corrected (net displacement),10.0,2,96.26622148150945,95.66562811988302,correct
+15,Perspective corrected (net displacement),23.0,3,65.77072347825415,65.10240512865981,correct
+15,Perspective corrected (net displacement),6.0,27,78.0758765946585,76.36563197046787,correct
+15,Perspective corrected (net displacement),17.0,8,87.7408947122407,86.68279169830828,correct
+15,Perspective corrected (net displacement),18.0,32,53.97177607690668,52.10653136855788,correct
+15,Perspective corrected (net displacement),7.0,4,99.3943803528718,99.67531015770524,correct
+15,Perspective corrected (net displacement),1.0,30,50.313502395676736,49.124193494179465,correct
+15,Perspective corrected (net displacement),12.0,5,118.55122952871143,118.14186539815381,correct
+15,Perspective corrected (net displacement),4.0,16,113.40447879284065,113.09430611570122,correct
+15,Perspective corrected (net displacement),5.0,34,68.77761272017773,68.91081055010267,correct
+15,Perspective corrected (net displacement),9.0,10,56.25591562610434,55.01852410167028,correct
+15,Perspective corrected (net displacement),24.0,38,77.11709350375777,77.91223753245393,correct
+15,Perspective corrected (net displacement),16.0,18,80.104410182331,80.17388969149275,correct
+15,Perspective corrected (net displacement),13.0,13,71.45376617358059,71.41585112238072,correct
+15,Perspective corrected (net displacement),8.0,43,128.20285184091506,127.01717668114219,correct
+15,"Perspective corrected (path length, literal)",14.0,1,127.9805837588988,139.2467772489723,wrong
+15,"Perspective corrected (path length, literal)",21.0,26,76.22897839916615,141.5722736676999,wrong
+15,"Perspective corrected (path length, literal)",22.0,41,89.40475204231905,305.2527642087126,wrong
+15,"Perspective corrected (path length, literal)",20.0,44,96.27262146631062,362.72665164504315,wrong
+15,"Perspective corrected (path length, literal)",3.0,15,68.2546486824887,135.11029158652698,wrong
+15,"Perspective corrected (path length, literal)",15.0,19,112.89275793633188,156.0672759976095,wrong
+15,"Perspective corrected (path length, literal)",11.0,6,135.7166393488246,175.932563727211,wrong
+15,"Perspective corrected (path length, literal)",19.0,36,71.23139880783839,154.42359749414584,wrong
+15,"Perspective corrected (path length, literal)",2.0,25,78.32070932169245,238.24925291724253,wrong
+15,"Perspective corrected (path length, literal)",10.0,2,96.26622148150945,131.19412246890565,wrong
+15,"Perspective corrected (path length, literal)",23.0,3,65.77072347825415,138.11176243165303,wrong
+15,"Perspective corrected (path length, literal)",6.0,27,78.0758765946585,324.71756469748163,wrong
+15,"Perspective corrected (path length, literal)",17.0,8,87.7408947122407,272.1832919424195,wrong
+15,"Perspective corrected (path length, literal)",18.0,32,53.97177607690668,201.23010752306794,wrong
+15,"Perspective corrected (path length, literal)",7.0,4,99.3943803528718,159.69478920576637,wrong
+15,"Perspective corrected (path length, literal)",1.0,30,50.313502395676736,233.4331544638461,wrong
+15,"Perspective corrected (path length, literal)",12.0,5,118.55122952871143,190.41898885851674,wrong
+15,"Perspective corrected (path length, literal)",4.0,16,113.40447879284065,140.10440775313018,wrong
+15,"Perspective corrected (path length, literal)",5.0,34,68.77761272017773,128.99965306096718,wrong
+15,"Perspective corrected (path length, literal)",9.0,10,56.25591562610434,300.97106351343984,wrong
+15,"Perspective corrected (path length, literal)",24.0,38,77.11709350375777,130.12466671553864,wrong
+15,"Perspective corrected (path length, literal)",16.0,18,80.104410182331,118.83106056380501,wrong
+15,"Perspective corrected (path length, literal)",13.0,13,71.45376617358059,141.048670140788,wrong
+15,"Perspective corrected (path length, literal)",8.0,43,128.20285184091506,151.34312713213376,wrong
+15,Original 2024 script (legacy),14.0,1,127.9805837588988,129.6,correct
+15,Original 2024 script (legacy),21.0,26,76.22897839916615,72.0,correct
+15,Original 2024 script (legacy),22.0,41,89.40475204231905,86.4,correct
+15,Original 2024 script (legacy),20.0,44,96.27262146631062,90.0,wrong
+15,Original 2024 script (legacy),3.0,15,68.2546486824887,68.4,correct
+15,Original 2024 script (legacy),15.0,19,112.89275793633188,111.60000000000001,correct
+15,Original 2024 script (legacy),11.0,6,135.7166393488246,129.6,wrong
+15,Original 2024 script (legacy),19.0,36,71.23139880783839,68.4,correct
+15,Original 2024 script (legacy),2.0,25,78.32070932169245,75.60000000000001,correct
+15,Original 2024 script (legacy),10.0,2,96.26622148150945,93.60000000000001,correct
+15,Original 2024 script (legacy),23.0,3,65.77072347825415,61.47129186602871,correct
+15,Original 2024 script (legacy),6.0,27,78.0758765946585,75.60000000000001,correct
+15,Original 2024 script (legacy),17.0,8,87.7408947122407,86.4,correct
+15,Original 2024 script (legacy),18.0,32,53.97177607690668,50.4,correct
+15,Original 2024 script (legacy),7.0,4,99.3943803528718,93.60000000000001,wrong
+15,Original 2024 script (legacy),1.0,30,50.313502395676736,46.800000000000004,correct
+15,Original 2024 script (legacy),12.0,5,118.55122952871143,115.45714285714286,correct
+15,Original 2024 script (legacy),4.0,16,113.40447879284065,111.60000000000001,correct
+15,Original 2024 script (legacy),5.0,34,68.77761272017773,68.4,correct
+15,Original 2024 script (legacy),9.0,10,56.25591562610434,54.0,correct
+15,Original 2024 script (legacy),24.0,38,77.11709350375777,75.60000000000001,correct
+15,Original 2024 script (legacy),16.0,18,80.104410182331,82.8,correct
+15,Original 2024 script (legacy),13.0,13,71.45376617358059,72.0,correct
+15,Original 2024 script (legacy),8.0,43,128.20285184091506,126.0,correct
+15,No correction (constant scale),14.0,1,127.9805837588988,310.95481139842013,wrong
+15,No correction (constant scale),21.0,26,76.22897839916615,46.29626891461814,wrong
+15,No correction (constant scale),22.0,41,89.40475204231905,36.14472377762773,wrong
+15,No correction (constant scale),20.0,44,96.27262146631062,28.531189259550693,wrong
+15,No correction (constant scale),3.0,15,68.2546486824887,36.07641890116122,wrong
+15,No correction (constant scale),15.0,19,112.89275793633188,59.978231417312614,wrong
+15,No correction (constant scale),11.0,6,135.7166393488246,68.03940354172448,wrong
+15,No correction (constant scale),19.0,36,71.23139880783839,26.28802994818548,wrong
+15,No correction (constant scale),2.0,25,78.32070932169245,44.318979787482995,wrong
+15,No correction (constant scale),10.0,2,96.26622148150945,71.59041980157512,wrong
+15,No correction (constant scale),23.0,3,65.77072347825415,37.99331491655332,wrong
+15,No correction (constant scale),6.0,27,78.0758765946585,59.29254565586073,wrong
+15,No correction (constant scale),17.0,8,87.7408947122407,85.42812432963021,correct
+15,No correction (constant scale),18.0,32,53.97177607690668,95.59006602461179,wrong
+15,No correction (constant scale),7.0,4,99.3943803528718,79.3618285875014,wrong
+15,No correction (constant scale),1.0,30,50.313502395676736,79.45559551890057,wrong
+15,No correction (constant scale),12.0,5,118.55122952871143,65.41341996714115,wrong
+15,No correction (constant scale),4.0,16,113.40447879284065,114.16239327212053,correct
+15,No correction (constant scale),5.0,34,68.77761272017773,81.15244139396701,wrong
+15,No correction (constant scale),9.0,10,56.25591562610434,57.441105871998374,correct
+15,No correction (constant scale),24.0,38,77.11709350375777,98.06349508245998,wrong
+15,No correction (constant scale),16.0,18,80.104410182331,104.37479572174595,wrong
+15,No correction (constant scale),13.0,13,71.45376617358059,75.97816464609966,correct
+15,No correction (constant scale),8.0,43,128.20285184091506,148.01426093724544,wrong
+16,Perspective corrected (net displacement),5.0,43,110.77643578947968,111.04616583127128,correct
+16,Perspective corrected (net displacement),14.0,33,122.14166109118732,122.7829321138859,correct
+16,Perspective corrected (net displacement),1.0,1,70.2915379454109,70.42254796941108,correct
+16,Perspective corrected (net displacement),22.0,2,74.35421800158905,74.76299474812603,correct
+16,Perspective corrected (net displacement),7.0,3,90.66102270218158,91.09138476242745,correct
+16,Perspective corrected (net displacement),3.0,28,114.68717536577742,113.52205652244393,correct
+16,Perspective corrected (net displacement),21.0,47,109.8926478306345,109.23365488928712,correct
+16,Perspective corrected (net displacement),17.0,17,132.57125184018037,130.85345755874974,correct
+16,Perspective corrected (net displacement),20.0,36,120.14823446555422,119.79568496020987,correct
+16,Perspective corrected (net displacement),4.0,4,135.1223396716815,134.71901731066484,correct
+16,Perspective corrected (net displacement),24.0,24,67.65687729847403,64.36538336868334,correct
+16,Perspective corrected (net displacement),11.0,6,87.77008311962152,87.12646439760742,correct
+16,Perspective corrected (net displacement),9.0,41,101.45402592815498,100.95193267268439,correct
+16,Perspective corrected (net displacement),15.0,5,95.4164035226579,95.85326260103056,correct
+16,Perspective corrected (net displacement),19.0,12,79.7554225498573,77.77393681841619,correct
+16,Perspective corrected (net displacement),16.0,7,120.27786205402539,121.216150422807,correct
+16,Perspective corrected (net displacement),12.0,31,98.8510584113277,98.62764933125445,correct
+16,Perspective corrected (net displacement),13.0,37,97.42181813564983,94.19853820356549,correct
+16,Perspective corrected (net displacement),8.0,8,122.60086134519855,124.00719797654563,correct
+16,Perspective corrected (net displacement),2.0,15,97.655973653542,96.98531492257814,correct
+16,Perspective corrected (net displacement),23.0,9,136.23857378566353,135.52570547375868,correct
+16,Perspective corrected (net displacement),18.0,44,70.10135638832733,69.66481663383313,correct
+16,Perspective corrected (net displacement),10.0,53,76.70651333057238,76.26226395430683,correct
+16,Perspective corrected (net displacement),6.0,35,95.94746263632481,95.28915110401576,correct
+16,"Perspective corrected (path length, literal)",5.0,43,110.77643578947968,151.13251438903512,wrong
+16,"Perspective corrected (path length, literal)",14.0,33,122.14166109118732,159.50893575472742,wrong
+16,"Perspective corrected (path length, literal)",1.0,1,70.2915379454109,117.05085812645243,wrong
+16,"Perspective corrected (path length, literal)",22.0,2,74.35421800158905,123.46835823452005,wrong
+16,"Perspective corrected (path length, literal)",7.0,3,90.66102270218158,125.06728496956511,wrong
+16,"Perspective corrected (path length, literal)",3.0,28,114.68717536577742,173.6022507063318,wrong
+16,"Perspective corrected (path length, literal)",21.0,47,109.8926478306345,166.36086081684087,wrong
+16,"Perspective corrected (path length, literal)",17.0,17,132.57125184018037,170.77183276969203,wrong
+16,"Perspective corrected (path length, literal)",20.0,36,120.14823446555422,148.3904877180791,wrong
+16,"Perspective corrected (path length, literal)",4.0,4,135.1223396716815,134.940779687063,correct
+16,"Perspective corrected (path length, literal)",24.0,24,67.65687729847403,273.6428475695466,wrong
+16,"Perspective corrected (path length, literal)",11.0,6,87.77008311962152,313.34092573933276,wrong
+16,"Perspective corrected (path length, literal)",9.0,41,101.45402592815498,159.16099764502547,wrong
+16,"Perspective corrected (path length, literal)",15.0,5,95.4164035226579,142.0257367596215,wrong
+16,"Perspective corrected (path length, literal)",19.0,12,79.7554225498573,233.46501235633804,wrong
+16,"Perspective corrected (path length, literal)",16.0,7,120.27786205402539,153.6672927912671,wrong
+16,"Perspective corrected (path length, literal)",12.0,31,98.8510584113277,160.44475308293005,wrong
+16,"Perspective corrected (path length, literal)",13.0,37,97.42181813564983,305.01689355096147,wrong
+16,"Perspective corrected (path length, literal)",8.0,8,122.60086134519855,180.80552837022012,wrong
+16,"Perspective corrected (path length, literal)",2.0,15,97.655973653542,140.176154627031,wrong
+16,"Perspective corrected (path length, literal)",23.0,9,136.23857378566353,179.77118412966294,wrong
+16,"Perspective corrected (path length, literal)",18.0,44,70.10135638832733,104.80859152799985,wrong
+16,"Perspective corrected (path length, literal)",10.0,53,76.70651333057238,114.34599170538573,wrong
+16,"Perspective corrected (path length, literal)",6.0,35,95.94746263632481,135.6437139357599,wrong
+16,Original 2024 script (legacy),5.0,43,110.77643578947968,108.0,correct
+16,Original 2024 script (legacy),14.0,33,122.14166109118732,118.8,correct
+16,Original 2024 script (legacy),1.0,1,70.2915379454109,68.4,correct
+16,Original 2024 script (legacy),22.0,2,74.35421800158905,75.60000000000001,correct
+16,Original 2024 script (legacy),7.0,3,90.66102270218158,90.0,correct
+16,Original 2024 script (legacy),3.0,28,114.68717536577742,111.60000000000001,correct
+16,Original 2024 script (legacy),21.0,47,109.8926478306345,104.4,wrong
+16,Original 2024 script (legacy),17.0,17,132.57125184018037,129.6,correct
+16,Original 2024 script (legacy),20.0,36,120.14823446555422,115.2,correct
+16,Original 2024 script (legacy),4.0,4,135.1223396716815,125.21739130434783,wrong
+16,Original 2024 script (legacy),24.0,24,67.65687729847403,61.2,wrong
+16,Original 2024 script (legacy),11.0,6,87.77008311962152,86.4,correct
+16,Original 2024 script (legacy),9.0,41,101.45402592815498,97.2,correct
+16,Original 2024 script (legacy),15.0,5,95.4164035226579,93.60000000000001,correct
+16,Original 2024 script (legacy),19.0,12,79.7554225498573,75.60000000000001,correct
+16,Original 2024 script (legacy),16.0,7,120.27786205402539,115.2,wrong
+16,Original 2024 script (legacy),12.0,31,98.8510584113277,93.60000000000001,wrong
+16,Original 2024 script (legacy),13.0,37,97.42181813564983,93.60000000000001,correct
+16,Original 2024 script (legacy),8.0,8,122.60086134519855,126.0,correct
+16,Original 2024 script (legacy),2.0,15,97.655973653542,93.60000000000001,correct
+16,Original 2024 script (legacy),23.0,9,136.23857378566353,145.8,wrong
+16,Original 2024 script (legacy),18.0,44,70.10135638832733,68.4,correct
+16,Original 2024 script (legacy),10.0,53,76.70651333057238,75.60000000000001,correct
+16,Original 2024 script (legacy),6.0,35,95.94746263632481,93.60000000000001,correct
+16,No correction (constant scale),5.0,43,110.77643578947968,78.44088829823579,wrong
+16,No correction (constant scale),14.0,33,122.14166109118732,81.3890861801849,wrong
+16,No correction (constant scale),1.0,1,70.2915379454109,73.06057338316327,correct
+16,No correction (constant scale),22.0,2,74.35421800158905,98.91517168307584,wrong
+16,No correction (constant scale),7.0,3,90.66102270218158,95.53317094130962,correct
+16,No correction (constant scale),3.0,28,114.68717536577742,80.63373284878648,wrong
+16,No correction (constant scale),21.0,47,109.8926478306345,60.34662992820784,wrong
+16,No correction (constant scale),17.0,17,132.57125184018037,74.20531175222973,wrong
+16,No correction (constant scale),20.0,36,120.14823446555422,66.70034534150456,wrong
+16,No correction (constant scale),4.0,4,135.1223396716815,370.78086362962694,wrong
+16,No correction (constant scale),24.0,24,67.65687729847403,40.74132772680165,wrong
+16,No correction (constant scale),11.0,6,87.77008311962152,50.21238336682663,wrong
+16,No correction (constant scale),9.0,41,101.45402592815498,53.581747246308225,wrong
+16,No correction (constant scale),15.0,5,95.4164035226579,54.039886240684574,wrong
+16,No correction (constant scale),19.0,12,79.7554225498573,65.34950493254735,wrong
+16,No correction (constant scale),16.0,7,120.27786205402539,55.808831819164496,wrong
+16,No correction (constant scale),12.0,31,98.8510584113277,76.59196244439447,wrong
+16,No correction (constant scale),13.0,37,97.42181813564983,80.42427588933357,wrong
+16,No correction (constant scale),8.0,8,122.60086134519855,73.04047671832905,wrong
+16,No correction (constant scale),2.0,15,97.655973653542,94.04381377184009,correct
+16,No correction (constant scale),23.0,9,136.23857378566353,81.79011020009949,wrong
+16,No correction (constant scale),18.0,44,70.10135638832733,116.84759941333066,wrong
+16,No correction (constant scale),10.0,53,76.70651333057238,164.21516342450872,wrong
+16,No correction (constant scale),6.0,35,95.94746263632481,96.35714591836023,correct
+17,Perspective corrected (net displacement),3.0,13,64.94396471827791,64.7812170731115,correct
+17,Perspective corrected (net displacement),20.0,54,77.58615927287778,77.97658049724822,correct
+17,Perspective corrected (net displacement),15.0,6,108.06420984752566,106.98657566573569,correct
+17,Perspective corrected (net displacement),8.0,1,114.99249381528435,114.05893169233605,correct
+17,Perspective corrected (net displacement),12.0,2,116.78842794653326,114.74786014699535,correct
+17,Perspective corrected (net displacement),14.0,20,109.16066315339752,109.22854670549474,correct
+17,Perspective corrected (net displacement),2.0,37,125.62938115477989,125.52919748713137,correct
+17,Perspective corrected (net displacement),10.0,42,82.60644052927934,82.71979217999682,correct
+17,Perspective corrected (net displacement),9.0,45,86.00646803890147,85.92940891030587,correct
+17,Perspective corrected (net displacement),1.0,17,105.97902554617536,104.94299708721358,correct
+17,Perspective corrected (net displacement),18.0,22,96.53494394078879,97.45024137372637,correct
+17,Perspective corrected (net displacement),5.0,47,84.59538499834996,84.1723651756653,correct
+17,Perspective corrected (net displacement),4.0,34,64.33445326954198,64.31887526162247,correct
+17,Perspective corrected (net displacement),11.0,31,78.50892706791603,77.98255482052689,correct
+17,Perspective corrected (net displacement),23.0,24,114.22530140094315,113.46604425963011,correct
+17,Perspective corrected (net displacement),7.0,5,125.21660480611541,123.79365791129365,correct
+17,Perspective corrected (net displacement),13.0,9,90.84342052037726,89.02411186386216,correct
+17,Perspective corrected (net displacement),21.0,12,70.6859135034343,68.07772832087021,correct
+17,Perspective corrected (net displacement),22.0,49,133.68955621425806,133.0017958947809,correct
+17,Perspective corrected (net displacement),24.0,11,122.14108896562036,122.12120973371228,correct
+17,Perspective corrected (net displacement),16.0,8,65.9718419846143,66.4082935217895,correct
+17,Perspective corrected (net displacement),17.0,3,78.82515861644436,79.33074283155115,correct
+17,Perspective corrected (net displacement),19.0,29,128.72564377102566,128.91166140184023,correct
+17,Perspective corrected (net displacement),6.0,4,94.24970207000035,93.49285477444802,correct
+17,"Perspective corrected (path length, literal)",3.0,13,64.94396471827791,314.6528565544685,wrong
+17,"Perspective corrected (path length, literal)",20.0,54,77.58615927287778,164.6581480288958,wrong
+17,"Perspective corrected (path length, literal)",15.0,6,108.06420984752566,150.3760795826237,wrong
+17,"Perspective corrected (path length, literal)",8.0,1,114.99249381528435,149.36832910260858,wrong
+17,"Perspective corrected (path length, literal)",12.0,2,116.78842794653326,127.30515168498884,wrong
+17,"Perspective corrected (path length, literal)",14.0,20,109.16066315339752,146.61058146632266,wrong
+17,"Perspective corrected (path length, literal)",2.0,37,125.62938115477989,148.60320851830966,wrong
+17,"Perspective corrected (path length, literal)",10.0,42,82.60644052927934,139.14224848710697,wrong
+17,"Perspective corrected (path length, literal)",9.0,45,86.00646803890147,144.0321341448539,wrong
+17,"Perspective corrected (path length, literal)",1.0,17,105.97902554617536,150.53794415950392,wrong
+17,"Perspective corrected (path length, literal)",18.0,22,96.53494394078879,129.1142845766744,wrong
+17,"Perspective corrected (path length, literal)",5.0,47,84.59538499834996,110.1066139966238,wrong
+17,"Perspective corrected (path length, literal)",4.0,34,64.33445326954198,121.52858716169305,wrong
+17,"Perspective corrected (path length, literal)",11.0,31,78.50892706791603,137.40746495065977,wrong
+17,"Perspective corrected (path length, literal)",23.0,24,114.22530140094315,152.8380442030258,wrong
+17,"Perspective corrected (path length, literal)",7.0,5,125.21660480611541,153.98786127124708,wrong
+17,"Perspective corrected (path length, literal)",13.0,9,90.84342052037726,276.178951628174,wrong
+17,"Perspective corrected (path length, literal)",21.0,12,70.6859135034343,297.6428073523381,wrong
+17,"Perspective corrected (path length, literal)",22.0,49,133.68955621425806,169.89412217970326,wrong
+17,"Perspective corrected (path length, literal)",24.0,11,122.14108896562036,149.3123648813288,wrong
+17,"Perspective corrected (path length, literal)",16.0,8,65.9718419846143,131.01622234499126,wrong
+17,"Perspective corrected (path length, literal)",17.0,3,78.82515861644436,136.0281716862763,wrong
+17,"Perspective corrected (path length, literal)",19.0,29,128.72564377102566,148.23593332111204,wrong
+17,"Perspective corrected (path length, literal)",6.0,4,94.24970207000035,272.58596165873496,wrong
+17,Original 2024 script (legacy),3.0,13,64.94396471827791,64.8,correct
+17,Original 2024 script (legacy),20.0,54,77.58615927287778,75.60000000000001,correct
+17,Original 2024 script (legacy),15.0,6,108.06420984752566,104.4,correct
+17,Original 2024 script (legacy),8.0,1,114.99249381528435,111.60000000000001,correct
+17,Original 2024 script (legacy),12.0,2,116.78842794653326,111.60000000000001,wrong
+17,Original 2024 script (legacy),14.0,20,109.16066315339752,108.0,correct
+17,Original 2024 script (legacy),2.0,37,125.62938115477989,122.4,correct
+17,Original 2024 script (legacy),10.0,42,82.60644052927934,79.2,correct
+17,Original 2024 script (legacy),9.0,45,86.00646803890147,82.8,correct
+17,Original 2024 script (legacy),1.0,17,105.97902554617536,100.8,wrong
+17,Original 2024 script (legacy),18.0,22,96.53494394078879,97.2,correct
+17,Original 2024 script (legacy),5.0,47,84.59538499834996,82.8,correct
+17,Original 2024 script (legacy),4.0,34,64.33445326954198,64.8,correct
+17,Original 2024 script (legacy),11.0,31,78.50892706791603,79.2,correct
+17,Original 2024 script (legacy),23.0,24,114.22530140094315,111.60000000000001,correct
+17,Original 2024 script (legacy),7.0,5,125.21660480611541,120.6,correct
+17,Original 2024 script (legacy),13.0,9,90.84342052037726,90.0,correct
+17,Original 2024 script (legacy),21.0,12,70.6859135034343,68.4,correct
+17,Original 2024 script (legacy),22.0,49,133.68955621425806,133.20000000000002,correct
+17,Original 2024 script (legacy),24.0,11,122.14108896562036,122.4,correct
+17,Original 2024 script (legacy),16.0,8,65.9718419846143,64.8,correct
+17,Original 2024 script (legacy),17.0,3,78.82515861644436,79.2,correct
+17,Original 2024 script (legacy),19.0,29,128.72564377102566,126.0,correct
+17,Original 2024 script (legacy),6.0,4,94.24970207000035,93.60000000000001,correct
+17,No correction (constant scale),3.0,13,64.94396471827791,46.1333727153816,wrong
+17,No correction (constant scale),20.0,54,77.58615927287778,32.62502733595295,wrong
+17,No correction (constant scale),15.0,6,108.06420984752566,75.30957054470795,wrong
+17,No correction (constant scale),8.0,1,114.99249381528435,74.01629784426721,wrong
+17,No correction (constant scale),12.0,2,116.78842794653326,139.2456844224737,wrong
+17,No correction (constant scale),14.0,20,109.16066315339752,61.380439516511395,wrong
+17,No correction (constant scale),2.0,37,125.62938115477989,74.94057592786993,wrong
+17,No correction (constant scale),10.0,42,82.60644052927934,41.250156527589354,wrong
+17,No correction (constant scale),9.0,45,86.00646803890147,34.74908628889028,wrong
+17,No correction (constant scale),1.0,17,105.97902554617536,54.8414764051911,wrong
+17,No correction (constant scale),18.0,22,96.53494394078879,49.95905164183742,wrong
+17,No correction (constant scale),5.0,47,84.59538499834996,92.08200653714583,wrong
+17,No correction (constant scale),4.0,34,64.33445326954198,59.88163069236331,correct
+17,No correction (constant scale),11.0,31,78.50892706791603,56.8981958270031,wrong
+17,No correction (constant scale),23.0,24,114.22530140094315,95.58603784151836,wrong
+17,No correction (constant scale),7.0,5,125.21660480611541,128.07026493878746,correct
+17,No correction (constant scale),13.0,9,90.84342052037726,86.1113675304452,correct
+17,No correction (constant scale),21.0,12,70.6859135034343,64.39962023182105,wrong
+17,No correction (constant scale),22.0,49,133.68955621425806,124.10694069269795,wrong
+17,No correction (constant scale),24.0,11,122.14108896562036,123.63434431382868,correct
+17,No correction (constant scale),16.0,8,65.9718419846143,57.580054550655184,wrong
+17,No correction (constant scale),17.0,3,78.82515861644436,53.63554607866145,wrong
+17,No correction (constant scale),19.0,29,128.72564377102566,134.15583974677494,wrong
+17,No correction (constant scale),6.0,4,94.24970207000035,83.89791351082452,wrong
+18,Perspective corrected (net displacement),18.0,46,68.66055508290528,69.64581317454804,correct
+18,Perspective corrected (net displacement),19.0,1,66.06290416033326,65.94003344394922,correct
+18,Perspective corrected (net displacement),2.0,34,58.54627891260806,58.45311563167604,correct
+18,Perspective corrected (net displacement),15.0,32,94.5557491979526,94.47075242936934,correct
+18,Perspective corrected (net displacement),9.0,25,66.55253687223158,66.68632892481095,correct
+18,Perspective corrected (net displacement),10.0,16,134.26178518577814,133.13077990591566,correct
+18,Perspective corrected (net displacement),6.0,2,100.63814878556109,98.9172606705194,correct
+18,Perspective corrected (net displacement),24.0,14,96.15842738415088,95.84582641266209,correct
+18,Perspective corrected (net displacement),14.0,3,132.67640303077724,132.17544385414772,correct
+18,Perspective corrected (net displacement),12.0,29,46.435801681401315,45.642016198759855,correct
+18,Perspective corrected (net displacement),20.0,8,108.32304129574422,108.12214398879473,correct
+18,Perspective corrected (net displacement),4.0,24,100.49450622021601,99.71949463296318,correct
+18,Perspective corrected (net displacement),17.0,4,81.63490566168896,81.82797497621706,correct
+18,Perspective corrected (net displacement),13.0,5,122.2919094331802,121.52074207824103,correct
+18,Perspective corrected (net displacement),1.0,10,57.99590786776902,56.967995939635195,correct
+18,Perspective corrected (net displacement),3.0,7,123.19206779296204,121.95028118597301,correct
+18,Perspective corrected (net displacement),22.0,26,64.43302721827315,63.973845314408116,correct
+18,Perspective corrected (net displacement),21.0,6,68.81218005264273,69.21229882619355,correct
+18,Perspective corrected (net displacement),11.0,9,99.40929248934509,99.33881892745474,correct
+18,Perspective corrected (net displacement),7.0,22,74.84365499959091,74.41893982646864,correct
+18,Perspective corrected (net displacement),23.0,45,109.0194787006122,109.70598985144316,correct
+18,Perspective corrected (net displacement),16.0,39,134.83804376344534,134.81449152860745,correct
+18,Perspective corrected (net displacement),5.0,36,113.93554403117864,116.85547585109042,correct
+18,Perspective corrected (net displacement),8.0,43,87.05680560568912,86.37123818196365,correct
+18,"Perspective corrected (path length, literal)",18.0,46,68.66055508290528,152.35669368705402,wrong
+18,"Perspective corrected (path length, literal)",19.0,1,66.06290416033326,135.7378333116221,wrong
+18,"Perspective corrected (path length, literal)",2.0,34,58.54627891260806,321.09162942299906,wrong
+18,"Perspective corrected (path length, literal)",15.0,32,94.5557491979526,141.7233186592814,wrong
+18,"Perspective corrected (path length, literal)",9.0,25,66.55253687223158,124.62301196865079,wrong
+18,"Perspective corrected (path length, literal)",10.0,16,134.26178518577814,153.76429965296055,wrong
+18,"Perspective corrected (path length, literal)",6.0,2,100.63814878556109,167.8929857093322,wrong
+18,"Perspective corrected (path length, literal)",24.0,14,96.15842738415088,145.69631029180036,wrong
+18,"Perspective corrected (path length, literal)",14.0,3,132.67640303077724,144.67646550036562,wrong
+18,"Perspective corrected (path length, literal)",12.0,29,46.435801681401315,366.65552568627413,wrong
+18,"Perspective corrected (path length, literal)",20.0,8,108.32304129574422,148.71782876289404,wrong
+18,"Perspective corrected (path length, literal)",4.0,24,100.49450622021601,150.13083734805275,wrong
+18,"Perspective corrected (path length, literal)",17.0,4,81.63490566168896,129.07372923851472,wrong
+18,"Perspective corrected (path length, literal)",13.0,5,122.2919094331802,152.98919315627586,wrong
+18,"Perspective corrected (path length, literal)",1.0,10,57.99590786776902,284.777046033634,wrong
+18,"Perspective corrected (path length, literal)",3.0,7,123.19206779296204,154.77214456716737,wrong
+18,"Perspective corrected (path length, literal)",22.0,26,64.43302721827315,95.28300680812885,wrong
+18,"Perspective corrected (path length, literal)",21.0,6,68.81218005264273,146.28882051978238,wrong
+18,"Perspective corrected (path length, literal)",11.0,9,99.40929248934509,134.20999911563354,wrong
+18,"Perspective corrected (path length, literal)",7.0,22,74.84365499959091,143.37252353811675,wrong
+18,"Perspective corrected (path length, literal)",23.0,45,109.0194787006122,140.50565638147816,wrong
+18,"Perspective corrected (path length, literal)",16.0,39,134.83804376344534,141.07274646460155,wrong
+18,"Perspective corrected (path length, literal)",5.0,36,113.93554403117864,137.38703090675233,wrong
+18,"Perspective corrected (path length, literal)",8.0,43,87.05680560568912,238.55080507910498,wrong
+18,Original 2024 script (legacy),18.0,46,68.66055508290528,68.4,correct
+18,Original 2024 script (legacy),19.0,1,66.06290416033326,64.8,correct
+18,Original 2024 script (legacy),2.0,34,58.54627891260806,57.6,correct
+18,Original 2024 script (legacy),15.0,32,94.5557491979526,93.60000000000001,correct
+18,Original 2024 script (legacy),9.0,25,66.55253687223158,64.8,correct
+18,Original 2024 script (legacy),10.0,16,134.26178518577814,133.12173913043478,correct
+18,Original 2024 script (legacy),6.0,2,100.63814878556109,97.2,correct
+18,Original 2024 script (legacy),24.0,14,96.15842738415088,93.60000000000001,correct
+18,Original 2024 script (legacy),14.0,3,132.67640303077724,136.8,correct
+18,Original 2024 script (legacy),12.0,29,46.435801681401315,43.2,correct
+18,Original 2024 script (legacy),20.0,8,108.32304129574422,104.4,correct
+18,Original 2024 script (legacy),4.0,24,100.49450622021601,97.2,correct
+18,Original 2024 script (legacy),17.0,4,81.63490566168896,79.2,correct
+18,Original 2024 script (legacy),13.0,5,122.2919094331802,118.8,correct
+18,Original 2024 script (legacy),1.0,10,57.99590786776902,54.0,correct
+18,Original 2024 script (legacy),3.0,7,123.19206779296204,118.8,correct
+18,Original 2024 script (legacy),22.0,26,64.43302721827315,61.2,correct
+18,Original 2024 script (legacy),21.0,6,68.81218005264273,68.4,correct
+18,Original 2024 script (legacy),11.0,9,99.40929248934509,100.8,correct
+18,Original 2024 script (legacy),7.0,22,74.84365499959091,75.60000000000001,correct
+18,Original 2024 script (legacy),23.0,45,109.0194787006122,106.2,correct
+18,Original 2024 script (legacy),16.0,39,134.83804376344534,133.20000000000002,correct
+18,Original 2024 script (legacy),5.0,36,113.93554403117864,129.6,wrong
+18,Original 2024 script (legacy),8.0,43,87.05680560568912,90.0,correct
+18,No correction (constant scale),18.0,46,68.66055508290528,26.003297617641387,wrong
+18,No correction (constant scale),19.0,1,66.06290416033326,48.132278652011514,wrong
+18,No correction (constant scale),2.0,34,58.54627891260806,26.550301197144115,wrong
+18,No correction (constant scale),15.0,32,94.5557491979526,38.24424882492574,wrong
+18,No correction (constant scale),9.0,25,66.55253687223158,38.36602253679615,wrong
+18,No correction (constant scale),10.0,16,134.26178518577814,90.81943319793425,wrong
+18,No correction (constant scale),6.0,2,100.63814878556109,182.86274692492094,wrong
+18,No correction (constant scale),24.0,14,96.15842738415088,61.13082217119562,wrong
+18,No correction (constant scale),14.0,3,132.67640303077724,153.8740215454517,wrong
+18,No correction (constant scale),12.0,29,46.435801681401315,15.0557164236439,wrong
+18,No correction (constant scale),20.0,8,108.32304129574422,55.80173996599607,wrong
+18,No correction (constant scale),4.0,24,100.49450622021601,71.49983802243462,wrong
+18,No correction (constant scale),17.0,4,81.63490566168896,56.41724525481964,wrong
+18,No correction (constant scale),13.0,5,122.2919094331802,93.4543920950462,wrong
+18,No correction (constant scale),1.0,10,57.99590786776902,46.06604571753187,wrong
+18,No correction (constant scale),3.0,7,123.19206779296204,114.97394499329985,wrong
+18,No correction (constant scale),22.0,26,64.43302721827315,78.03291292766065,wrong
+18,No correction (constant scale),21.0,6,68.81218005264273,57.14204611110679,wrong
+18,No correction (constant scale),11.0,9,99.40929248934509,89.57883046762647,wrong
+18,No correction (constant scale),7.0,22,74.84365499959091,68.92991334567178,wrong
+18,No correction (constant scale),23.0,45,109.0194787006122,146.65704327975607,wrong
+18,No correction (constant scale),16.0,39,134.83804376344534,306.6247240822414,wrong
+18,No correction (constant scale),5.0,36,113.93554403117864,138.5875512565321,wrong
+18,No correction (constant scale),8.0,43,87.05680560568912,129.0282816786204,wrong
+19,Perspective corrected (net displacement),22.0,1,101.65349166349915,100.90137413002849,correct
+19,Perspective corrected (net displacement),4.0,2,136.05685532114126,135.827661002869,correct
+19,Perspective corrected (net displacement),12.0,44,80.09069337568232,79.80761931599802,correct
+19,Perspective corrected (net displacement),8.0,49,107.69583566040208,107.80479427943317,correct
+19,Perspective corrected (net displacement),6.0,8,97.6080143626767,97.84933714995148,correct
+19,Perspective corrected (net displacement),16.0,13,109.85841904089169,109.50088072876602,correct
+19,Perspective corrected (net displacement),2.0,22,74.06495735171525,73.88969272934017,correct
+19,Perspective corrected (net displacement),20.0,18,82.99296223328793,82.0124661695406,correct
+19,Perspective corrected (net displacement),15.0,3,82.51472090523812,82.69997043131555,correct
+19,Perspective corrected (net displacement),14.0,4,59.021845250781396,58.01552934015827,correct
+19,Perspective corrected (net displacement),19.0,43,139.66458530966568,139.80091294832684,correct
+19,Perspective corrected (net displacement),17.0,47,122.69911097015171,121.62005328903058,correct
+19,Perspective corrected (net displacement),9.0,46,58.087760183256265,55.69622983541893,correct
+19,Perspective corrected (net displacement),18.0,39,87.42658640292626,86.99007894908343,correct
+19,Perspective corrected (net displacement),5.0,25,65.18951486748166,64.86912144154147,correct
+19,Perspective corrected (net displacement),3.0,10,127.85820372266683,127.6767339245375,correct
+19,Perspective corrected (net displacement),23.0,16,82.72662024559042,82.95854674165284,correct
+19,Perspective corrected (net displacement),7.0,5,115.9926137982258,115.96033069108024,correct
+19,Perspective corrected (net displacement),11.0,30,62.5621393949184,62.244586289135,correct
+19,Perspective corrected (net displacement),10.0,6,76.35343781075048,75.2236920525679,correct
+19,Perspective corrected (net displacement),13.0,12,85.09352932011865,84.91089684153114,correct
+19,Perspective corrected (net displacement),21.0,7,133.17684005935374,133.25095801936754,correct
+19,Perspective corrected (net displacement),1.0,36,49.05646549153957,48.48713886208364,correct
+19,Perspective corrected (net displacement),24.0,29,68.01282146148566,68.50419610149264,correct
+19,"Perspective corrected (path length, literal)",22.0,1,101.65349166349915,132.34392620479778,wrong
+19,"Perspective corrected (path length, literal)",4.0,2,136.05685532114126,158.5402398504446,wrong
+19,"Perspective corrected (path length, literal)",12.0,44,80.09069337568232,168.70987865476854,wrong
+19,"Perspective corrected (path length, literal)",8.0,49,107.69583566040208,183.42557337575602,wrong
+19,"Perspective corrected (path length, literal)",6.0,8,97.6080143626767,147.67435280639364,wrong
+19,"Perspective corrected (path length, literal)",16.0,13,109.85841904089169,140.73510499324522,wrong
+19,"Perspective corrected (path length, literal)",2.0,22,74.06495735171525,131.06352396114772,wrong
+19,"Perspective corrected (path length, literal)",20.0,18,82.99296223328793,144.33156041663892,wrong
+19,"Perspective corrected (path length, literal)",15.0,3,82.51472090523812,113.58118022087832,wrong
+19,"Perspective corrected (path length, literal)",14.0,4,59.021845250781396,212.72760802899268,wrong
+19,"Perspective corrected (path length, literal)",19.0,43,139.66458530966568,158.46817357309163,wrong
+19,"Perspective corrected (path length, literal)",17.0,47,122.69911097015171,183.351081975737,wrong
+19,"Perspective corrected (path length, literal)",9.0,46,58.087760183256265,179.13430986509832,wrong
+19,"Perspective corrected (path length, literal)",18.0,39,87.42658640292626,121.04902443205678,wrong
+19,"Perspective corrected (path length, literal)",5.0,25,65.18951486748166,118.49894773481968,wrong
+19,"Perspective corrected (path length, literal)",3.0,10,127.85820372266683,166.1346810541011,wrong
+19,"Perspective corrected (path length, literal)",23.0,16,82.72662024559042,125.72256086494703,wrong
+19,"Perspective corrected (path length, literal)",7.0,5,115.9926137982258,144.8341866941122,wrong
+19,"Perspective corrected (path length, literal)",11.0,30,62.5621393949184,128.32728794887186,wrong
+19,"Perspective corrected (path length, literal)",10.0,6,76.35343781075048,155.39199834623918,wrong
+19,"Perspective corrected (path length, literal)",13.0,12,85.09352932011865,140.594378316245,wrong
+19,"Perspective corrected (path length, literal)",21.0,7,133.17684005935374,177.86165953173594,wrong
+19,"Perspective corrected (path length, literal)",1.0,36,49.05646549153957,228.6791275972261,wrong
+19,"Perspective corrected (path length, literal)",24.0,29,68.01282146148566,302.5785652238587,wrong
+19,Original 2024 script (legacy),22.0,1,101.65349166349915,100.8,correct
+19,Original 2024 script (legacy),4.0,2,136.05685532114126,129.6,wrong
+19,Original 2024 script (legacy),12.0,44,80.09069337568232,79.2,correct
+19,Original 2024 script (legacy),8.0,49,107.69583566040208,104.4,correct
+19,Original 2024 script (legacy),6.0,8,97.6080143626767,97.2,correct
+19,Original 2024 script (legacy),16.0,13,109.85841904089169,108.0,correct
+19,Original 2024 script (legacy),2.0,22,74.06495735171525,72.0,correct
+19,Original 2024 script (legacy),20.0,18,82.99296223328793,79.2,correct
+19,Original 2024 script (legacy),15.0,3,82.51472090523812,79.2,correct
+19,Original 2024 script (legacy),14.0,4,59.021845250781396,57.6,correct
+19,Original 2024 script (legacy),19.0,43,139.66458530966568,136.8,correct
+19,Original 2024 script (legacy),17.0,47,122.69911097015171,118.8,correct
+19,Original 2024 script (legacy),9.0,46,58.087760183256265,54.0,correct
+19,Original 2024 script (legacy),18.0,39,87.42658640292626,86.4,correct
+19,Original 2024 script (legacy),5.0,25,65.18951486748166,64.8,correct
+19,Original 2024 script (legacy),3.0,10,127.85820372266683,126.0,correct
+19,Original 2024 script (legacy),23.0,16,82.72662024559042,82.8,correct
+19,Original 2024 script (legacy),7.0,5,115.9926137982258,115.2,correct
+19,Original 2024 script (legacy),11.0,30,62.5621393949184,61.2,correct
+19,Original 2024 script (legacy),10.0,6,76.35343781075048,75.60000000000001,correct
+19,Original 2024 script (legacy),13.0,12,85.09352932011865,82.8,correct
+19,Original 2024 script (legacy),21.0,7,133.17684005935374,133.20000000000002,correct
+19,Original 2024 script (legacy),1.0,36,49.05646549153957,46.800000000000004,correct
+19,Original 2024 script (legacy),24.0,29,68.01282146148566,64.8,correct
+19,No correction (constant scale),22.0,1,101.65349166349915,113.62978564345852,wrong
+19,No correction (constant scale),4.0,2,136.05685532114126,141.09879206416042,wrong
+19,No correction (constant scale),12.0,44,80.09069337568232,28.695773128200273,wrong
+19,No correction (constant scale),8.0,49,107.69583566040208,37.99195249331123,wrong
+19,No correction (constant scale),6.0,8,97.6080143626767,51.8033408609387,wrong
+19,No correction (constant scale),16.0,13,109.85841904089169,58.19865211058371,wrong
+19,No correction (constant scale),2.0,22,74.06495735171525,38.50673661143101,wrong
+19,No correction (constant scale),20.0,18,82.99296223328793,43.35030295321996,wrong
+19,No correction (constant scale),15.0,3,82.51472090523812,78.82342356945365,correct
+19,No correction (constant scale),14.0,4,59.021845250781396,41.31122145747668,wrong
+19,No correction (constant scale),19.0,43,139.66458530966568,71.65382465520757,wrong
+19,No correction (constant scale),17.0,47,122.69911097015171,55.59488728245611,wrong
+19,No correction (constant scale),9.0,46,58.087760183256265,145.76923997213623,wrong
+19,No correction (constant scale),18.0,39,87.42658640292626,75.44055370693144,wrong
+19,No correction (constant scale),5.0,25,65.18951486748166,63.36850442664876,correct
+19,No correction (constant scale),3.0,10,127.85820372266683,118.62770861347934,wrong
+19,No correction (constant scale),23.0,16,82.72662024559042,76.71263863117706,wrong
+19,No correction (constant scale),7.0,5,115.9926137982258,118.53574660840172,correct
+19,No correction (constant scale),11.0,30,62.5621393949184,68.20610275109561,wrong
+19,No correction (constant scale),10.0,6,76.35343781075048,56.144297649198535,wrong
+19,No correction (constant scale),13.0,12,85.09352932011865,87.96418164188724,correct
+19,No correction (constant scale),21.0,7,133.17684005935374,99.69728695644181,wrong
+19,No correction (constant scale),1.0,36,49.05646549153957,92.6762937833389,wrong
+19,No correction (constant scale),24.0,29,68.01282146148566,67.5600161372764,correct

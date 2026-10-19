@@ -1,0 +1,94 @@
+{
+  "settings": {
+    "fps": 25.0,
+    "duration_s": 21.0,
+    "resolution_wh": [
+      3840,
+      2160
+    ],
+    "n_vehicles": 24,
+    "speed_range_kmh": [
+      60.0,
+      140.0
+    ],
+    "truck_fraction": 0.25,
+    "lanes_toward": [
+      2.5,
+      6.0,
+      9.5
+    ],
+    "lanes_away": [
+      15.5,
+      19.0,
+      22.5
+    ],
+    "edge_jitter_frac": 0.01,
+    "edge_jitter_min_px": 1.0,
+    "p_detect_near": 0.98,
+    "p_detect_far": 0.7,
+    "small_box_px": 40.0,
+    "false_positive_rate": 0.05,
+    "speed_jitter_frac": 0.0,
+    "scenarios": 20,
+    "seed": 7,
+    "tol_kmh": 5.0
+  },
+  "results": [
+    {
+      "variant": "Perspective corrected (net displacement)",
+      "accuracy": 0.9958333333333333,
+      "precision": 0.9958333333333333,
+      "recall": 0.9958333333333333,
+      "f1": 0.9958333333333333,
+      "mae_kmh": 0.30876090426875463,
+      "bias_kmh": -0.15488152467921437,
+      "rmse_kmh": 0.5518663457993853,
+      "n_real_vehicles": 480,
+      "tp": 478,
+      "fp": 2,
+      "fn": 2
+    },
+    {
+      "variant": "Perspective corrected (path length, literal)",
+      "accuracy": 0.675,
+      "precision": 0.675,
+      "recall": 0.675,
+      "f1": 0.675,
+      "mae_kmh": 10.732102753528505,
+      "bias_kmh": 10.707640239658357,
+      "rmse_kmh": 20.539955899394023,
+      "n_real_vehicles": 480,
+      "tp": 324,
+      "fp": 156,
+      "fn": 156
+    },
+    {
+      "variant": "Original 2024 script (legacy)",
+      "accuracy": 0.8916666666666667,
+      "precision": 0.8916666666666667,
+      "recall": 0.8916666666666667,
+      "f1": 0.8916666666666667,
+      "mae_kmh": 2.8260303457860756,
+      "bias_kmh": -2.632886325906691,
+      "rmse_kmh": 3.3240968748389643,
+      "n_real_vehicles": 480,
+      "tp": 428,
+      "fp": 52,
+      "fn": 52
+    },
+    {
+      "variant": "No correction (constant scale)",
+      "accuracy": 0.13125,
+      "precision": 0.13125,
+      "recall": 0.13125,
+      "f1": 0.13125,
+      "mae_kmh": 32.543943553272314,
+      "bias_kmh": -14.847045378327982,
+      "rmse_kmh": 45.60953959682491,
+      "n_real_vehicles": 480,
+      "tp": 63,
+      "fp": 417,
+      "fn": 417
+    }
+  ]
+}

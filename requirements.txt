@@ -1,0 +1,13 @@
+# supervision is pinned: releases after 0.25 removed sv.ByteTrack.
+supervision==0.25.1
+ultralytics>=8.1
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+tqdm>=4.65
+pytest>=7.4
+# Optional, only for --backend roboflow (the exact hosted "yolov8x-640" model):
+# inference>=0.20
+# Optional, only for --backend yolo-nas (the detector of the 2024 script):
+# super-gradients==3.5.0
