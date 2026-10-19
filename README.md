@@ -6,12 +6,17 @@ Code for the manuscript:
 
 A vehicle near a wide-angle traffic camera crosses many more pixels per metre than one far away, so speeds computed from pixel movement are wrong. This pipeline detects vehicles with YOLOv8x, tracks them with ByteTrack, maps each vehicle's ground point onto a metric top-down view of the road with an OpenCV perspective transform, and reports speed as the distance covered in one second.
 
+![Annotated output on vehicles.mp4: tracked vehicles with live speed labels inside the red road zone](docs/demo.gif)
+
+*Ten seconds of `scripts/estimate_speed.py` output on `vehicles.mp4` (YOLOv8x, corrected speed calculation). Red: the road zone; labels: tracker ID and speed.*
+
 ## Results
 
 | Evidence | Result | Scope |
 |---|---|---|
 | Manuscript, Table 1 | Accuracy 0.80, precision 0.90, recall 0.82, F1 0.86 | 15 vehicles in one clip, scored as correct / incorrect. No measured speeds. Reproduced exactly by `scripts/reproduce_table1.py` |
 | Synthetic validation | F1 0.996, mean absolute error 0.31 km/h with perspective correction; F1 0.131, 32.5 km/h without | 480 simulated vehicles with known speeds. An upper bound (see [limitations](#limitations)) |
+| Pipeline run on `vehicles.mp4` | 10 vehicles tracked, 83–149 km/h. On the same detections the 2024 calculation reads 5% lower (mean 5.3 km/h) | No ground truth, so this shows how the two calculations differ, not which is right |
 | Measured-speed evaluation on real video | Not yet done | Procedure and tooling in [docs/measured-speed-evaluation.md](docs/measured-speed-evaluation.md) |
 
 ## Quick start
